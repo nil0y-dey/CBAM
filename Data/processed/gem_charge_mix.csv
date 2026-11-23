@@ -1,0 +1,9 @@
+country,furnace,operating_units,operating_capacity_kt,units_with_charge_reported,capacity_with_charge_reported_kt,pct_scrap,pct_DRI,pct_HBI,pct_sponge_iron,pct_merchant_pig_iron,pct_granulated_pig_iron,pct_pig_iron_unspecified,pct_other_iron
+China,EAF,306,189571,21,17163,77.6,0.0,0.0,0.0,21.6,0.0,0.8,0.0
+India,EAF,35,26578,25,19673,15.9,49.8,0.4,0.0,1.7,14.4,0.0,17.9
+Türkiye,EAF,31,43230,23,34620,91.8,0.0,0.0,2.6,0.0,0.0,1.7,4.1
+Vietnam,EAF,13,9502,4,3102,99.7,0.0,0.0,0.0,0.3,0.0,0.0,0.0
+China,IF,8,240,0,0,,,,,,,,
+India,IF,271,13768,144,6653,8.9,77.3,4.3,2.3,2.6,1.0,3.4,0.0
+Türkiye,IF,0,0,0,0,,,,,,,,
+Vietnam,IF,4,4350,1,500,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

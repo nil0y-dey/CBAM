@@ -1,0 +1,184 @@
+{
+  "id": "T3",
+  "title": "Türkiye: galvanised coil from a scrap-EAF mill and an integrated mill",
+  "lesson": "Türkiye's default is set on the BF-BOF route, so the scrap-EAF supplier gains about three times as much per tonne as the BF-BOF supplier, even after losing almost all of its benchmark deduction. In 2026, at prior means, the BF-BOF supplier repays its verification only above about 7 kt of exports a year.",
+  "sector": "iron and steel",
+  "country": "Türkiye",
+  "Q": 50000.0,
+  "lam": 1.0,
+  "comext_note": "EU imports of 7210 49 00 from Türkiye, 2025: 529 kt",
+  "nodes": [
+    {
+      "id": "R",
+      "name": "Re-roller: cold rolling and galvanising",
+      "parent": "",
+      "depth": 0,
+      "output_cn8": "72104900",
+      "origin": "Türkiye",
+      "route": "",
+      "a": 1.0,
+      "w": 1.0,
+      "D_base": 2.51,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.491,
+        "2027": 1.491,
+        "2028": 1.491,
+        "2029": 1.491,
+        "2030": 1.491,
+        "2031": 1.491,
+        "2032": 1.491,
+        "2033": 1.491,
+        "2034": 1.491
+      },
+      "BMa": {
+        "2026": 0.112,
+        "2027": 0.112,
+        "2028": 0.112,
+        "2029": 0.112,
+        "2030": 0.112,
+        "2031": 0.112,
+        "2032": 0.112,
+        "2033": 0.112,
+        "2034": 0.112
+      },
+      "theta_mean": 0.05,
+      "theta_cv": 0.1,
+      "ln_mu": -3.000707438980575,
+      "ln_sigma": 0.0997513451195927,
+      "cost": 30000.0,
+      "cost_low": 15000.0,
+      "cost_high": 50000.0,
+      "rho": 0.9,
+      "size": "medium",
+      "own": true,
+      "prior_source": "JRC134682 Table 19: Table 19 7210 minus 7208 = 1.94 - 1.89",
+      "internal": [],
+      "note": "",
+      "children": [
+        "EAF",
+        "BF"
+      ]
+    },
+    {
+      "id": "EAF",
+      "name": "Scrap-EAF flat mill (50% of coil)",
+      "parent": "R",
+      "depth": 1,
+      "output_cn8": "72083900",
+      "origin": "Türkiye",
+      "route": "E",
+      "a": 0.52,
+      "w": 0.52,
+      "D_base": 2.428,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.37,
+        "2027": 1.37,
+        "2028": 1.37,
+        "2029": 1.37,
+        "2030": 1.37,
+        "2031": 1.37,
+        "2032": 1.37,
+        "2033": 1.37,
+        "2034": 1.37
+      },
+      "BMa": {
+        "2026": 0.11095000000000001,
+        "2027": 0.11095000000000001,
+        "2028": 0.11095000000000001,
+        "2029": 0.11095000000000001,
+        "2030": 0.11095000000000001,
+        "2031": 0.11095000000000001,
+        "2032": 0.11095000000000001,
+        "2033": 0.11095000000000001,
+        "2034": 0.11095000000000001
+      },
+      "theta_mean": 0.19,
+      "theta_cv": 0.25,
+      "ln_mu": -1.6910435177298684,
+      "ln_sigma": 0.24622067706923975,
+      "cost": 100000.0,
+      "cost_low": 50000.0,
+      "cost_high": 150000.0,
+      "rho": 0.9,
+      "size": "large",
+      "own": false,
+      "prior_source": "JRC134682 Fig. 57 (PDF p.170); Table 19: 0.13 (scrap-EAF route) + 0.06 (rolling increment as above)",
+      "internal": [
+        [
+          "72071210",
+          "E",
+          1.03
+        ]
+      ],
+      "note": "",
+      "children": []
+    },
+    {
+      "id": "BF",
+      "name": "Integrated BF-BOF mill (50% of coil)",
+      "parent": "R",
+      "depth": 1,
+      "output_cn8": "72083900",
+      "origin": "Türkiye",
+      "route": "C",
+      "a": 0.52,
+      "w": 0.52,
+      "D_base": 2.428,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.37,
+        "2027": 1.37,
+        "2028": 1.37,
+        "2029": 1.37,
+        "2030": 1.37,
+        "2031": 1.37,
+        "2032": 1.37,
+        "2033": 1.37,
+        "2034": 1.37
+      },
+      "BMa": {
+        "2026": 1.3827688679999999,
+        "2027": 1.3827688679999999,
+        "2028": 1.3827688679999999,
+        "2029": 1.3827688679999999,
+        "2030": 1.3827688679999999,
+        "2031": 1.3827688679999999,
+        "2032": 1.3827688679999999,
+        "2033": 1.3827688679999999,
+        "2034": 1.3827688679999999
+      },
+      "theta_mean": 2.31,
+      "theta_cv": 0.25,
+      "ln_mu": 0.8069352136254848,
+      "ln_sigma": 0.24622067706923975,
+      "cost": 100000.0,
+      "cost_low": 50000.0,
+      "cost_high": 150000.0,
+      "rho": 0.9,
+      "size": "large",
+      "own": false,
+      "prior_source": "JRC134682 Fig. 56 (PDF p.169); Table 19: 2.25 (BF-BOF route) + 0.06 (rolling: Table 19 7208 minus 7207 = 1.89 - 1.83)",
+      "internal": [
+        [
+          "72071210",
+          "C",
+          1.03
+        ],
+        [
+          "72011011",
+          "",
+          0.9682
+        ],
+        [
+          "26011200",
+          "",
+          1.055338
+        ]
+      ],
+      "note": "",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+year,origin_iso2,sector,goods_category,tonnes,value_eur,n_cn8_codes
+2024,CN,aluminium,aluminium products,735101.0,3880764447,94
+2024,CN,aluminium,unwrought aluminium,8457.7,26457623,7
+2024,CN,iron and steel,DRI,10.5,77831,4
+2024,CN,iron and steel,FeCr,2332.8,7724326,6
+2024,CN,iron and steel,FeMn,160.0,231450,4
+2024,CN,iron and steel,FeNi,0.1,3780,2
+2024,CN,iron and steel,crude steel,699885.0,459280505,49
+2024,CN,iron and steel,iron or steel products,7321020.2,15760668244,786
+2024,CN,iron and steel,pig iron,29355.6,12755229,10
+2024,CN,iron and steel,sintered ore,64.7,301483,1
+2024,IN,aluminium,aluminium products,49256.1,224818731,77
+2024,IN,aluminium,unwrought aluminium,256497.4,625412851,5
+2024,IN,iron and steel,DRI,52.5,209638,2
+2024,IN,iron and steel,FeCr,44466.8,72367966,5
+2024,IN,iron and steel,FeMn,106116.5,110347387,3
+2024,IN,iron and steel,crude steel,551410.6,348190968,27
+2024,IN,iron and steel,iron or steel products,4267507.9,5119355544,499
+2024,IN,iron and steel,pig iron,41.4,14526,3
+2024,IN,iron and steel,sintered ore,410.2,121919,1
+2024,TR,aluminium,aluminium products,616451.2,2539767925,85
+2024,TR,aluminium,unwrought aluminium,76714.5,199270534,5
+2024,TR,iron and steel,DRI,22.1,125146,2
+2024,TR,iron and steel,FeCr,25719.8,68994970,5
+2024,TR,iron and steel,FeMn,37.5,73028,2
+2024,TR,iron and steel,FeNi,57.2,114827,1
+2024,TR,iron and steel,crude steel,193937.4,146483326,33
+2024,TR,iron and steel,iron or steel products,6759415.0,7897207817,569
+2024,TR,iron and steel,pig iron,42.9,38718,6
+2024,TR,iron and steel,sintered ore,0.0,46,1
+2024,VN,aluminium,aluminium products,16718.8,91915501,46
+2024,VN,aluminium,unwrought aluminium,9720.6,23300537,3
+2024,VN,iron and steel,FeMn,350.1,518066,1
+2024,VN,iron and steel,crude steel,542054.7,311704333,5
+2024,VN,iron and steel,iron or steel products,2948359.4,2596538680,296
+2025,CN,aluminium,aluminium products,746433.7,3998649626,94
+2025,CN,aluminium,unwrought aluminium,11736.1,40694502,7
+2025,CN,iron and steel,DRI,289.0,288515,4
+2025,CN,iron and steel,FeCr,2174.5,5990822,6
+2025,CN,iron and steel,FeMn,110.1,206108,5
+2025,CN,iron and steel,FeNi,0.1,3379,2
+2025,CN,iron and steel,crude steel,1607871.7,797779042,46
+2025,CN,iron and steel,iron or steel products,9076702.7,17628235584,786
+2025,CN,iron and steel,pig iron,60.2,95511,8
+2025,CN,iron and steel,sintered ore,3797.5,455051,1
+2025,IN,aluminium,aluminium products,68655.6,295998690,78
+2025,IN,aluminium,unwrought aluminium,247259.7,622134422,5
+2025,IN,iron and steel,DRI,95.2,219727,2
+2025,IN,iron and steel,FeCr,23207.6,30358712,5
+2025,IN,iron and steel,FeMn,151292.9,151304106,3
+2025,IN,iron and steel,FeNi,0.0,2831,1
+2025,IN,iron and steel,crude steel,551212.6,291184421,25
+2025,IN,iron and steel,iron or steel products,3625945.8,4569932205,537
+2025,IN,iron and steel,pig iron,119805.2,40857317,4
+2025,IN,iron and steel,sintered ore,13.0,515,1
+2025,TR,aluminium,aluminium products,672932.0,2802284364,85
+2025,TR,aluminium,unwrought aluminium,51883.9,142317979,7
+2025,TR,iron and steel,DRI,0.4,428,1
+2025,TR,iron and steel,FeCr,50915.1,109808470,6
+2025,TR,iron and steel,FeMn,523.3,970431,1
+2025,TR,iron and steel,FeNi,4.1,18168,1
+2025,TR,iron and steel,crude steel,245377.4,162616658,31
+2025,TR,iron and steel,iron or steel products,7749407.3,8024358758,580
+2025,TR,iron and steel,pig iron,47.2,27092,6
+2025,TR,iron and steel,sintered ore,0.1,10,1
+2025,VN,aluminium,aluminium products,16366.6,84347066,51
+2025,VN,aluminium,unwrought aluminium,7086.0,16773542,3
+2025,VN,iron and steel,FeMn,100.0,149529,1
+2025,VN,iron and steel,crude steel,740412.1,348227968,5
+2025,VN,iron and steel,iron or steel products,2283206.6,2211555708,306
+2025,VN,iron and steel,sintered ore,0.0,1,1

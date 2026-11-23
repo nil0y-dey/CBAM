@@ -1,0 +1,24 @@
+basis,iso3,route_class,n_groups,emissions_mt,w_median,w_p10,w_p90,unweighted_median,robust_cv
+intensity_per_t_prod,CHN,BF-BOF,7,52.96,1.88,1.293,2.457,1.88,0.242
+intensity_per_t_prod,CHN,all routes,7,52.96,1.88,1.293,2.457,1.88,0.242
+intensity_per_t_prod,IND,BF-BOF,3,31.86,1.443,1.428,1.945,1.443,0.14
+intensity_per_t_prod,IND,all routes,4,51.06,1.945,1.428,2.69,1.694,0.253
+intensity_per_t_prod,IND,mixed,1,19.2,2.69,2.69,2.69,2.69,
+intensity_per_t_prod,TUR,BF-BOF,2,14.31,1.609,1.609,1.665,1.637,
+intensity_per_t_prod,TUR,all routes,2,14.31,1.609,1.609,1.665,1.637,
+intensity_per_t_prod,VNM,BF-BOF,1,14.05,2.161,2.161,2.161,2.161,
+intensity_per_t_prod,VNM,all routes,1,14.05,2.161,2.161,2.161,2.161,
+intensity_per_t_cap,CHN,BF-BOF,58,459.68,1.559,0.785,2.351,1.302,0.392
+intensity_per_t_cap,CHN,all routes,73,483.01,1.559,0.692,2.351,1.196,0.415
+intensity_per_t_cap,CHN,mixed,8,21.78,1.094,0.296,2.582,0.446,0.815
+intensity_per_t_cap,CHN,scrap-EAF/IF,7,1.55,0.24,0.084,1.19,0.109,1.798
+intensity_per_t_cap,IND,BF-BOF,7,51.58,1.441,1.091,1.951,1.259,0.233
+intensity_per_t_cap,IND,DRI-EAF/IF,4,4.09,1.779,1.286,2.881,1.532,0.35
+intensity_per_t_cap,IND,all routes,14,78.74,1.552,1.091,2.0,1.364,0.229
+intensity_per_t_cap,IND,mixed,3,23.07,2.0,1.609,2.0,1.609,0.076
+intensity_per_t_cap,TUR,BF-BOF,2,14.31,1.561,1.384,1.561,1.472,
+intensity_per_t_cap,TUR,all routes,13,17.11,1.561,0.11,1.561,0.11,0.363
+intensity_per_t_cap,TUR,scrap-EAF/IF,11,2.8,0.108,0.073,0.249,0.108,0.636
+intensity_per_t_cap,VNM,BF-BOF,1,14.05,1.873,1.873,1.873,1.873,
+intensity_per_t_cap,VNM,all routes,2,14.14,1.873,1.873,1.873,1.032,
+intensity_per_t_cap,VNM,scrap-EAF/IF,1,0.1,0.19,0.19,0.19,0.19,

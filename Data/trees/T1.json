@@ -1,0 +1,194 @@
+{
+  "id": "T1",
+  "title": "China: galvanised coil from two integrated mills",
+  "lesson": "Verifying the re-roller alone adds about 0.1 certificates per tonne, but it unlocks two suppliers whose verification removes about 1.6 per tonne: China's default sits far above plant estimates (verify-to-unlock).",
+  "sector": "iron and steel",
+  "country": "China",
+  "Q": 50000.0,
+  "lam": 1.0,
+  "comext_note": "EU imports of 7210 49 00 from China, 2025: 507 kt",
+  "nodes": [
+    {
+      "id": "R",
+      "name": "Re-roller: cold rolling and galvanising",
+      "parent": "",
+      "depth": 0,
+      "output_cn8": "72104900",
+      "origin": "China",
+      "route": "",
+      "a": 1.0,
+      "w": 1.0,
+      "D_base": 3.205,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.491,
+        "2027": 1.491,
+        "2028": 1.491,
+        "2029": 1.491,
+        "2030": 1.491,
+        "2031": 1.491,
+        "2032": 1.491,
+        "2033": 1.491,
+        "2034": 1.491
+      },
+      "BMa": {
+        "2026": 0.112,
+        "2027": 0.112,
+        "2028": 0.112,
+        "2029": 0.112,
+        "2030": 0.112,
+        "2031": 0.112,
+        "2032": 0.112,
+        "2033": 0.112,
+        "2034": 0.112
+      },
+      "theta_mean": 0.02,
+      "theta_cv": 0.1,
+      "ln_mu": -3.91699817085473,
+      "ln_sigma": 0.0997513451195927,
+      "cost": 30000.0,
+      "cost_low": 15000.0,
+      "cost_high": 50000.0,
+      "rho": 0.9,
+      "size": "medium",
+      "own": true,
+      "prior_source": "JRC134682 Table 19: Table 19 7210 minus 7208 = 1.86 - 1.84",
+      "internal": [],
+      "note": "",
+      "children": [
+        "M1",
+        "M2"
+      ]
+    },
+    {
+      "id": "M1",
+      "name": "Integrated BF-BOF mill A (60% of coil)",
+      "parent": "R",
+      "depth": 1,
+      "output_cn8": "72083900",
+      "origin": "China",
+      "route": "C",
+      "a": 0.624,
+      "w": 0.624,
+      "D_base": 3.187,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.37,
+        "2027": 1.37,
+        "2028": 1.37,
+        "2029": 1.37,
+        "2030": 1.37,
+        "2031": 1.37,
+        "2032": 1.37,
+        "2033": 1.37,
+        "2034": 1.37
+      },
+      "BMa": {
+        "2026": 1.3827688679999999,
+        "2027": 1.3827688679999999,
+        "2028": 1.3827688679999999,
+        "2029": 1.3827688679999999,
+        "2030": 1.3827688679999999,
+        "2031": 1.3827688679999999,
+        "2032": 1.3827688679999999,
+        "2033": 1.3827688679999999,
+        "2034": 1.3827688679999999
+      },
+      "theta_mean": 1.95,
+      "theta_cv": 0.25,
+      "ln_mu": 0.637517061667438,
+      "ln_sigma": 0.24622067706923975,
+      "cost": 100000.0,
+      "cost_low": 50000.0,
+      "cost_high": 150000.0,
+      "rho": 0.9,
+      "size": "large",
+      "own": false,
+      "prior_source": "JRC134682 Fig. 56 (PDF p.169); Table 19: 1.95 (BF-BOF route) + 0.00 (rolling: Table 19 7208 minus 7207 = 1.84 - 1.84)",
+      "internal": [
+        [
+          "72071210",
+          "C",
+          1.03
+        ],
+        [
+          "72011011",
+          "",
+          0.9682
+        ],
+        [
+          "26011200",
+          "",
+          1.055338
+        ]
+      ],
+      "note": "",
+      "children": []
+    },
+    {
+      "id": "M2",
+      "name": "Integrated BF-BOF mill B (40% of coil)",
+      "parent": "R",
+      "depth": 1,
+      "output_cn8": "72083900",
+      "origin": "China",
+      "route": "C",
+      "a": 0.41600000000000004,
+      "w": 0.41600000000000004,
+      "D_base": 3.187,
+      "default_route": "C",
+      "BMd": {
+        "2026": 1.37,
+        "2027": 1.37,
+        "2028": 1.37,
+        "2029": 1.37,
+        "2030": 1.37,
+        "2031": 1.37,
+        "2032": 1.37,
+        "2033": 1.37,
+        "2034": 1.37
+      },
+      "BMa": {
+        "2026": 1.3827688679999999,
+        "2027": 1.3827688679999999,
+        "2028": 1.3827688679999999,
+        "2029": 1.3827688679999999,
+        "2030": 1.3827688679999999,
+        "2031": 1.3827688679999999,
+        "2032": 1.3827688679999999,
+        "2033": 1.3827688679999999,
+        "2034": 1.3827688679999999
+      },
+      "theta_mean": 1.95,
+      "theta_cv": 0.25,
+      "ln_mu": 0.637517061667438,
+      "ln_sigma": 0.24622067706923975,
+      "cost": 100000.0,
+      "cost_low": 50000.0,
+      "cost_high": 150000.0,
+      "rho": 0.9,
+      "size": "large",
+      "own": false,
+      "prior_source": "JRC134682 Fig. 56 (PDF p.169); Table 19: 1.95 (BF-BOF route) + 0.00 (rolling: Table 19 7208 minus 7207 = 1.84 - 1.84)",
+      "internal": [
+        [
+          "72071210",
+          "C",
+          1.03
+        ],
+        [
+          "72011011",
+          "",
+          0.9682
+        ],
+        [
+          "26011200",
+          "",
+          1.055338
+        ]
+      ],
+      "note": "",
+      "children": []
+    }
+  ]
+}

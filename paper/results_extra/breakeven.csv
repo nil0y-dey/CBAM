@@ -1,0 +1,9 @@
+tree,year,value_m0,verified,cost_multiplier_plan_changes,cost_multiplier_value_zero,min_volume_t_value_positive
+T1,2026,4589924,M1 M2 R,22.82,22.9,2185
+T1,2030,8388392,M1 M2 R,40.94,40.9,1221
+T2,2026,0,none,,,
+T2,2030,1420016,DRI PEL PIG R,17.9,17.9,2793
+T3,2026,2539125,BF EAF R,8.63,16.4,3042
+T3,2030,6294796,BF EAF R,20.6,38.8,1290
+T4,2026,1807701,PRI R SEC,3.77,42.5,235
+T4,2030,3302158,PRI R SEC,8.31,68.8,145

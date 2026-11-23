@@ -1,0 +1,18 @@
+parameter,period,value,unit,status,source,note
+cbam_factor,2026,0.975,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2027,0.95,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2028,0.90,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2029,0.775,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2030,0.515,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2031,0.39,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2032,0.265,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2033,0.14,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,
+cbam_factor,2034,0.0,share of benchmark deducted,legislated,Directive 2003/87/EC Art. 10a(1a); OPIS/McCloskey table,no factor applies from 2034
+default_markup,2026,0.10,share added to base default value,legislated,IR (EU) 2025/2621; OPIS/McCloskey table,steel and aluminium
+default_markup,2027,0.20,share added to base default value,legislated,IR (EU) 2025/2621; OPIS/McCloskey table,steel and aluminium
+default_markup,2028+,0.30,share added to base default value,legislated,IR (EU) 2025/2621; OPIS/McCloskey table,steel and aluminium; 30% held through 2034 in the OPIS table
+certificate_price,2026-Q1,75.36,EUR per tCO2e,published,European Commission price page (published 7 Apr 2026),applies to goods imported in the quarter
+certificate_price,2026-Q2,75.28,EUR per tCO2e,published,European Commission price page (published 6 Jul 2026),applies to goods imported in the quarter
+certificate_price,2026-Q3,82.32,EUR per tCO2e,published,European Commission (published 5 Oct 2026),applies to goods imported in the quarter
+certificate_price,2026-Q4,,EUR per tCO2e,pending,European Commission (due 4 Jan 2027),fill in when published; weekly prices from 2027
+cscf,2026-2030,1.0,share,legislated,Commission Implementing Decision (EU) 2026/1862 Art. 1 (OJ 24 Jul 2026),100% for every year 2026-2030

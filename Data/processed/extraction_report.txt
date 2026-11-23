@@ -1,0 +1,34 @@
+defaults file:   Data/raw/cbam_tables/DV correcting act_final update_06.08.xlsx  [v2 (2026-08-06)]
+benchmarks file: Data/raw/cbam_tables/CBAM Benchmarks_20260206.xlsx  [v1 (2025-02-06)]
+origins: ['China', 'India', 'Türkiye', 'Viet Nam'] + ['UNKNOWN ORIGIN (Annex IV)', 'OTHER COUNTRIES AND TERRITORIES']
+defaults_long rows: 1470 (aggregate 'see below' rows: 126)
+benchmarks_long rows: 2389 (536 CN8 codes)
+defaults_with_benchmarks rows: 3216
+  Column B match 2026-27: exact=2502, plain=714
+  Column B match 2028-30: exact=2502, plain=714
+  Column A match 2026-27: exact=216, plain=3000
+  ('ambiguous' = the default allows two routes, e.g. carbon or low-alloy steel;
+   the candidates column lists every value)
+
+rows per origin and sector (defaults, excluding aggregate rows):
+  China                               aluminium       24
+  China                               iron and steel  200
+  India                               aluminium       24
+  India                               iron and steel  200
+  OTHER COUNTRIES AND TERRITORIES     aluminium       24
+  OTHER COUNTRIES AND TERRITORIES     iron and steel  200
+  Türkiye                             aluminium       24
+  Türkiye                             iron and steel  200
+  UNKNOWN ORIGIN (Annex IV)           aluminium       24
+  UNKNOWN ORIGIN (Annex IV)           iron and steel  200
+  Viet Nam                            aluminium       24
+  Viet Nam                            iron and steel  200
+
+codes with no default value ('-') per origin:
+  China                               1
+  India                               1
+  Türkiye                             3
+  Viet Nam                            35
+
+notes:
+  none

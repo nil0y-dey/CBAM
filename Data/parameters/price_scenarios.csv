@@ -1,0 +1,28 @@
+scenario,year,price_eur_per_t,source,note
+flat,2026,77.65,policy_parameters.csv,mean of the published 2026 Q1-Q3 CBAM certificate prices (75.36; 75.28; 82.32); Q4 pending
+flat,2027,77.65,assumption,held at the 2026 mean
+flat,2028,77.65,assumption,held at the 2026 mean
+flat,2029,77.65,assumption,held at the 2026 mean
+flat,2030,77.65,assumption,held at the 2026 mean
+flat,2031,77.65,assumption,held at the 2026 mean
+flat,2032,77.65,assumption,held at the 2026 mean
+flat,2033,77.65,assumption,held at the 2026 mean
+flat,2034,77.65,assumption,held at the 2026 mean
+futures,2026,77.65,policy_parameters.csv,mean of 2026 Q1-Q3 certificate prices
+futures,2027,90.50,model_assumptions.csv (eua_dec26_quote),EUA Dec-26 contract on 2 Nov 2026
+futures,2028,93.50,interpolation,linear between Dec-26 (90.50) and Dec-30 (99.50) quotes
+futures,2029,96.50,interpolation,linear between Dec-26 (90.50) and Dec-30 (99.50) quotes
+futures,2030,99.50,model_assumptions.csv (eua_dec30_quote),EUA Dec-30 contract (autumn 2026)
+futures,2031,99.50,assumption,held at the Dec-30 quote
+futures,2032,99.50,assumption,held at the Dec-30 quote
+futures,2033,99.50,assumption,held at the Dec-30 quote
+futures,2034,99.50,assumption,held at the Dec-30 quote
+high,2026,77.65,policy_parameters.csv,mean of 2026 Q1-Q3 certificate prices
+high,2027,150.00,assumption,upper end of the price sweep in the proposal (EUR 50-150)
+high,2028,150.00,assumption,
+high,2029,150.00,assumption,
+high,2030,150.00,assumption,
+high,2031,150.00,assumption,
+high,2032,150.00,assumption,
+high,2033,150.00,assumption,
+high,2034,150.00,assumption,

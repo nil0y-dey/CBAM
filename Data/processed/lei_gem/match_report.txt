@@ -1,0 +1,12 @@
+CHN: Lei sites 769 (1661.8 Mt CO2). Matched 180 sites = 56.4% of emissions, in 91 groups (48 one-to-one). Groups with 2019 production: 7.
+    groups usable for spread: yes=73, no: implausible ratio (mismatch or scope gap)=10, no: large group (>5 sites or plants)=5, no: no GEM steel capacity=3
+    tiers: no candidate=510, company+location=171, ambiguous company, no location=48, ambiguous (>4 plants)=31, company only (unique)=9
+IND: Lei sites 351 (221.7 Mt CO2). Matched 40 sites = 46.1% of emissions, in 25 groups (12 one-to-one). Groups with 2019 production: 4.
+    groups usable for spread: yes=14, no: no GEM steel capacity=8, no: implausible ratio (mismatch or scope gap)=3
+    tiers: no candidate=268, ambiguous company, no location=43, company+location=34, company only (unique)=6
+TUR: Lei sites 118 (24.4 Mt CO2). Matched 35 sites = 71.4% of emissions, in 16 groups (7 one-to-one). Groups with 2019 production: 2.
+    groups usable for spread: yes=13, no: large group (>5 sites or plants)=1, no: no GEM steel capacity=1, no: implausible ratio (mismatch or scope gap)=1
+    tiers: no candidate=81, company only (unique)=21, company+location=14, ambiguous company, no location=2
+VNM: Lei sites 65 (19.2 Mt CO2). Matched 15 sites = 79.1% of emissions, in 6 groups (2 one-to-one). Groups with 2019 production: 1.
+    groups usable for spread: no: implausible ratio (mismatch or scope gap)=3, yes=2, no: large group (>5 sites or plants)=1
+    tiers: no candidate=32, ambiguous company, no location=18, company+location=11, company only (unique)=4

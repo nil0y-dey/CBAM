@@ -1,0 +1,9 @@
+good,route,country,direct_tco2e_per_t,indirect_tco2e_per_t,precision,source,note
+crude steel (non-alloy),BF-BOF (primary),EU27,1.82,0.10,read from chart +/-0.1,"JRC134682 (2023) Annex 3, Figure 56 (PDF p.169)",pilot-study boundaries (includes coke ovens); 2019 data
+crude steel (non-alloy),BF-BOF (primary),China,1.95,0.22,read from chart +/-0.1,"JRC134682 (2023) Annex 3, Figure 56 (PDF p.169)",pilot-study boundaries (includes coke ovens); 2019 data
+crude steel (non-alloy),BF-BOF (primary),Türkiye,2.25,0.12,read from chart +/-0.1,"JRC134682 (2023) Annex 3, Figure 56 (PDF p.169)",pilot-study boundaries (includes coke ovens); 2019 data
+crude steel (non-alloy),BF-BOF (primary),India,4.52,0.37,read from chart +/-0.1,"JRC134682 (2023) Annex 3, Figure 56 (PDF p.169)",pilot-study boundaries (includes coke ovens); 2019 data
+crude steel (non-alloy),scrap-EAF (secondary),EU27,0.10,0.28,read from chart +/-0.05,"JRC134682 (2023) Annex 3, Figure 57 (PDF p.170)",2019 data
+crude steel (non-alloy),scrap-EAF (secondary),China,0.18,0.79,read from chart +/-0.05,"JRC134682 (2023) Annex 3, Figure 57 (PDF p.170)",2019 data
+crude steel (non-alloy),scrap-EAF (secondary),Türkiye,0.13,0.36,read from chart +/-0.05,"JRC134682 (2023) Annex 3, Figure 57 (PDF p.170)",2019 data
+crude steel (non-alloy),scrap-EAF (secondary),India,0.13,0.64,read from chart +/-0.05,"JRC134682 (2023) Annex 3, Figure 57 (PDF p.170)",2019 data

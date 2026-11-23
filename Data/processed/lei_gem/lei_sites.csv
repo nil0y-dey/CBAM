@@ -1,0 +1,1304 @@
+iso3,lei_site,location,companies,emissions_mt_2019,match_tier,gem_ids
+CHN,3906,Liaoning,Anshan Iron & Steel,44.0982,company+location,P100000120219; P100000120220; P100000120221; P100000120224
+CHN,3929,Shanghai,Baowu Steel Group,37.6705,company+location,P100000120256; P100000120257
+CHN,4272,Jiangsu,Jiangsu Shagang Group/Sheen Faith Group,36.1491,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,4054,Anhui,Maanshan Iron & Steel Group,34.7109,company+location,P100000120069; P100000120070
+CHN,14152,Hebei,Hebei Iron & Steel Group/Shougang Corporation,34.0016,ambiguous (>4 plants),
+CHN,4130,Hebei,Hebei Iron & Steel Group,33.402,ambiguous (>4 plants),
+CHN,4133,Hubei,Baowu Steel Group,32.3634,company+location,P100000120171; P100000120172; P100000120174; P100000121069
+CHN,762,Shandong,Rizhao Steel,30.5638,company+location,P100000120240
+CHN,9636,Zhejiang,Jianlong Iron & Steel Group,26.7406,company+location,P100000120305
+CHN,4050,Shandong,Shandong Iron & Steel Group,24.7823,company+location,P100000120337; P100000121150
+CHN,4002,Hebei,Hebei Iron & Steel Group,23.2918,ambiguous (>4 plants),
+CHN,13391,Liaoning,Anshan Iron & Steel,22.8201,company+location,P100000120219; P100000120220; P100000120221; P100000120224
+CHN,4012,Shandong,Shandong Iron & Steel Group,22.0424,company+location,P100000120337; P100000121150
+CHN,13402,Guangdong,Baowu Steel Group,21.9275,company+location,P100000120085
+CHN,3930,Nei Mongol,Baotou Iron & Steel,20.879,no candidate,
+CHN,4053,Guangxi,Baowu Steel Group,20.0908,company+location,P100000120306
+CHN,4047,Gansu,Jisco - Jiuquan Iron & Steel/ENRC - Eurasian Natural Resources,19.3004,no candidate,
+CHN,5395,Kaohsiung,China Steel,18.3753,"ambiguous company, no location",
+CHN,885,Hebei,Tangshan Guofeng Iron & Steel,18.3096,no candidate,
+CHN,14174,Henan,Linzhou Iron & Steel,18.1595,no candidate,
+CHN,9076,Hebei,ArcelorMittal Group/Hebei Jinxi Iron & Steel/Pioneer Metals,17.9687,ambiguous (>4 plants),
+CHN,14173,Jiangsu,Jiangsu Shagang Group,16.3532,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,3937,Hebei,Hebei Iron & Steel Group,16.3098,ambiguous (>4 plants),
+CHN,3933,Liaoning,Benxi Iron & Steel,16.2971,company+location,P100000120223; P100000120224; P100000120227
+CHN,14949,Shandong,Shandong Iron & Steel Group,16.1817,company+location,P100000120337; P100000121150
+CHN,4234,Jiangsu,Zenith - Changzhou Zhongtian,16.0715,no candidate,
+CHN,4057,Sichuan,Panzhihua Iron & Steel Group,15.8497,company+location,P100000120277
+CHN,4218,Hebei,Hebei Iron & Steel Group,15.3649,ambiguous (>4 plants),
+CHN,14950,Guangxi,Baowu Steel Group,14.6669,company+location,P100000120306
+CHN,3931,Liaoning,Beitai Iron & Steel,14.5899,no candidate,
+CHN,3928,Hebei,Anyang Iron & Steel,13.9384,company only (unique),P100000120160
+CHN,10335,Tianjin,Bohai Iron & Steel,13.7318,"ambiguous company, no location",
+CHN,3946,Fujian,Fujian Sansteel,13.5932,company+location,P100000120076
+CHN,4055,Jiangsu,Nanjing Iron & Steel Group,13.4524,company+location,P100000120190
+CHN,4216,Xinjiang Uygur,Baowu Steel Group,13.0201,company+location,P100000120289; P100000120291
+CHN,4215,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,12.667,no candidate,
+CHN,4129,Shanxi,Taiyuan Iron & Steel Group,12.6439,no candidate,
+CHN,4250,Jiangxi,Jiangxi Xinyu General Iron & Steel,12.2459,company+location,P100000120214
+CHN,14932,Hebei,Handan Zhongheng,12.2011,no candidate,
+CHN,14178,Jiangxi,Nanchang Iron & Steel,11.572,no candidate,
+CHN,4049,Yunnan,Baowu Steel Group,11.5111,company+location,P100000120296; P100000120297; P100000120298; P100000120299
+CHN,4132,Tianjin,Bohai Iron & Steel,11.381,"ambiguous company, no location",
+CHN,13978,Hebei,Hebei Iron & Steel Group,11.0716,ambiguous (>4 plants),
+CHN,4125,Hebei,Shougang Corporation,10.8355,company+location,P100000120106; P100000120107
+CHN,4059,Shandong,Qingdao Iron & Steel Group,10.7675,company+location,P100000120239
+CHN,4051,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,10.5068,no candidate,
+CHN,3940,Chongqing,Chongqing Iron & Steel,10.4521,company+location,P100000120074
+CHN,10339,Shaanxi,Shaanxi Longmen Iron & Steel,10.2053,company+location,P100000120234
+CHN,3995,Guangdong,Baowu Steel Group,10.0201,company+location,P100000120085
+CHN,4205,Jilin,Shougang Corporation,9.963,"ambiguous company, no location",
+CHN,4246,Jiangsu,CITIC Group,9.9576,company+location,P100000120191
+CHN,13895,Hebei,Hebei Puyang Group,9.8375,ambiguous (>4 plants),
+CHN,8906,Shanxi,Shanxi Haixin Group,9.8233,company+location,P100000120274
+CHN,9072,Jiangsu,Jiangsu Shagang Group/Jiangsu Yonglian Steel,9.525,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,14183,Zhejiang,Hangzhou Iron & Steel Group/Baowu Steel Group,9.4779,company+location,P100000120305
+CHN,15513,Lianyungang,Jiangsu Binxin Special Steel,9.1748,company+location,P100000120196
+CHN,14611,Tianjin,Bohai Iron & Steel,8.983,"ambiguous company, no location",
+CHN,4052,Liaoning,Lingyuan Iron & Steel Group,8.9632,company+location,P100000120225
+CHN,9659,Shandong,Vale Group/Sojitz Group/Yankuang Group,8.6188,no candidate,
+CHN,10340,Hebei,Xinxing Cast Pipe,8.6058,no candidate,
+CHN,788,Liaoning,China Minmetals Group,8.5552,company+location,P100000120224
+CHN,14660,Zhejiang,Quzhou Yuanli Metal,8.4581,company+location,P100000120304
+CHN,14959,Hebei,Tangshan Donghai Iron & Steel,8.4553,company+location,P100000120119; P100000120146
+CHN,4185,Guizhou,Shougang Corporation,8.185,company+location,P100000120096; P100000121067
+CHN,5440,Taichung,China Steel,7.7128,"ambiguous company, no location",
+CHN,15686,Shanxi,Shanxi Liheng Iron & Steel,7.3889,company+location,P100000120262
+CHN,10338,Henan,Henan Jiyuan Iron & Steel,7.3637,company+location,P100000120164
+CHN,15423,Hebei,Tangshan Songting Iron & Steel,7.0301,company+location,P100000120112
+CHN,14675,Hebei,Hebei Iron & Steel Group,6.8179,ambiguous (>4 plants),
+CHN,14967,Shanxi,Shanxi Zhongyu Iron & Steel,6.7459,no candidate,
+CHN,4058,Jiangxi,Nanchang Iron & Steel,6.7085,no candidate,
+CHN,14020,Tianjin,Tianjin Rockcheck Steel,6.6625,company+location,P100000120283
+CHN,14931,Hebei,Tangshan Ganglu Iron & Steel,6.5988,company+location,P100000120118
+CHN,4209,Shandong,Shandong Weifang Steel,6.5549,company+location,P100000120244
+CHN,14108,Heilongjiang,Jianlong Iron & Steel Group,6.5369,company+location,P100000120157; P100000120158; P100000120159; P100000120418
+CHN,14945,Hebei,Hebei Iron & Steel Group,6.4879,ambiguous (>4 plants),
+CHN,14161,Sichuan,Panzhihua Iron & Steel Group,6.4511,company+location,P100000120277
+CHN,4278,Shanxi,Shanxi Zhongyang Iron & Steel,6.2145,company+location,P100000120259
+CHN,15223,Hebei,Tangshan Heng'an Industrial,6.1837,no candidate,
+CHN,3945,Hubei,Baowu Steel Group,6.131,company+location,P100000120171; P100000120172; P100000120174; P100000121069
+CHN,14019,Hebei,Handan Zhongheng,6.1056,no candidate,
+CHN,14965,Shandong,Linyi Jiangxin Iron & Steel,6.0002,company+location,P100000120250
+CHN,3950,Jiangsu,Jiangyin Huaxi Iron & Steel,5.9731,company+location,P100000120205
+CHN,15514,Hebei,Hebei Iron & Steel Group,5.9038,ambiguous (>4 plants),
+CHN,13570,Sichuan,Sichuan Dazhou Iron & Steel,5.8618,company+location,P100000120377
+CHN,8884,Shanxi,Shanxi Jincheng Steel,5.7868,company+location,P100000120273
+CHN,15044,Hebei,Xinji Aosen Steel,5.7767,company+location,P100000120155
+CHN,4210,Sichuan,Sichuan Tranvic Group,5.7679,no candidate,
+CHN,4247,Hebei,Xingtai Iron & Steel,5.7393,company+location,P100000120116; P100000121135
+CHN,3992,Liaoning,Fosun Group,5.7303,no candidate,
+CHN,9014,Henan,Anyang Iron & Steel,5.6747,company+location,P100000120160
+CHN,15221,Shandong,Shandong Fulun Iron & Steel,5.6096,company+location,P100000120249
+CHN,8952,Shandong,Shandong Shiheng Special Steel,5.5329,no candidate,
+CHN,14942,Hebei,Hebei Iron & Steel Group,5.4802,ambiguous (>4 plants),
+CHN,14961,Henan,Nanyang Hanye Steel & Iron,5.3717,company+location,P100000120165
+CHN,3936,Shanxi,Shanxi Changzhi Iron & Steel,5.328,no candidate,
+CHN,15245,Liaoning,Anshan Iron & Steel,5.3148,company+location,P100000120219; P100000120220; P100000120221; P100000120224
+CHN,4003,Zhejiang,Hangzhou Iron & Steel Group,5.2164,company+location,P100000120305
+CHN,10337,Hebei,Evraz Group/Delong Iron & Steel,5.2155,company+location,P100000120121; P100000120122; P100001063756
+CHN,14930,Hebei,Evraz Group/Delong Iron & Steel,5.2149,company+location,P100000120121; P100000120122; P100001063756
+CHN,4160,Shanxi,Shanxi Xiaoshan Coal Chemistry,5.1713,no candidate,
+CHN,546,Shandong,Shandong Taishan Iron & Steel,5.1452,company+location,P100000120245; P100000121150
+CHN,15294,Guangxi,Guangxi Shenglong Metallurgical,5.0977,company+location,P100000120094
+CHN,4092,Jiangxi,Nanchang Iron & Steel,5.0487,no candidate,
+CHN,4244,Heilongjiang,Xilin Iron & Steel,5.0382,company+location,P100000120158
+CHN,14127,Tianjin,Tianjin Youfa Steel,5.0332,no candidate,
+CHN,15305,Shanxi,Shanxi Meijin Iron & Steel,5.0213,company+location,P100000120308; P100000121151
+CHN,15296,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,4.9239,no candidate,
+CHN,14933,Hebei,Hebei Iron & Steel Group/Hebei Wenfeng Iron & Steel,4.8673,ambiguous (>4 plants),
+CHN,14966,Shanxi,Shanxi Jianbang Group,4.7931,company+location,P100000120264
+CHN,14254,Yunnan,Qianan Rongxin Industry Group,4.5882,no candidate,
+CHN,9269,Hebei,Hebei Wenfeng Iron & Steel,4.5302,ambiguous (>4 plants),
+CHN,4037,Jiangsu,Jiangsu Shagang Group,4.4001,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,15220,Hebei,Langfang Xingang Steel,4.3907,no candidate,
+CHN,4075,Hunan,Lengshuijang Iron & Steel,4.3902,company+location,P100000120181
+CHN,15249,Hebei,Hebei Xinghua Steel,4.32,ambiguous (>4 plants),
+CHN,4291,Yunnan,Yunnan Shizhong,4.3094,no candidate,
+CHN,4136,Shanghai,Shanghai Pacific Chemical,4.2884,no candidate,
+CHN,4245,Liaoning,Jianlong Iron & Steel Group,4.2451,company+location,P100000120224; P100000120226
+CHN,14928,Shandong,Shandong Guangfu Group,4.2126,company+location,P100000120241
+CHN,14963,Hebei,Hebei Tianzhu Iron & Steel,4.1408,ambiguous (>4 plants),
+CHN,13368,Jiangsu,Jiangsu Shagang Group,4.0587,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,15408,Hebei,Jianlong Iron & Steel Group,3.9138,company+location,P100000120123; P100000120124; P100000120139
+CHN,13926,Anhui,Linhuan Coking,3.8921,no candidate,
+CHN,4183,Hebei,Hebei Iron & Steel Group,3.8631,ambiguous (>4 plants),
+CHN,15422,Hebei,Tangshan Ruifeng Iron & Steel,3.8404,company+location,P100000120109
+CHN,4142,Shanxi,Shanxi Antai Group,3.7447,company+location,P100000120261
+CHN,15425,,Baowu Steel Group,3.6988,"ambiguous company, no location",
+CHN,15418,,Nanjinzhao Steel Works,3.6779,no candidate,
+CHN,4154,Shanxi,Shanxi Sanjia Coal Chemistry,3.663,no candidate,
+CHN,15292,Fujian,Fujian Xinhai Metallurgical,3.6113,no candidate,
+CHN,10827,Henan,Tian Hong Coking Plant,3.5736,no candidate,
+CHN,15307,Hebei,Xingtai Longhai Steel,3.5614,no candidate,
+CHN,4283,Anhui,Tongling Coking Plant,3.5552,no candidate,
+CHN,15047,Hebei,Xinyi Steel,3.5131,no candidate,
+CHN,4079,Shanxi,Taiyuan Iron & Steel Group,3.5085,no candidate,
+CHN,15214,Hebei,Hebei Iron & Steel Group,3.5056,ambiguous (>4 plants),
+CHN,3996,Guangdong,Baowu Steel Group,3.4364,company+location,P100000120085
+CHN,15218,Hebei,Hebei Shengbao,3.3789,ambiguous (>4 plants),
+CHN,4004,Anhui,Maanshan Iron & Steel Group,3.2641,company+location,P100000120069; P100000120070
+CHN,4267,Shandong,Shandong Iron & Steel Group,3.2165,company+location,P100000120337; P100000121150
+CHN,4114,Shanghai,Baowu Steel Group,3.1758,company+location,P100000120256; P100000120257
+CHN,15224,Hebei,Tangshan Ruifeng Iron & Steel,3.1734,company+location,P100000120109
+CHN,15225,Hebei,Tangshan Xingye Industrial,3.0874,no candidate,
+CHN,15045,Hebei,Xinji Aosen Steel,3.0752,company+location,P100000120155
+CHN,15341,Shanxi,Shanxi Changxin Iron & Steel,3.0724,company+location,P100000120270
+CHN,15211,Sichuan,Sichuan Desheng Group Iron & Steel,3.0026,company+location,P100000120075
+CHN,14964,Shanxi,Jie Xiu Xintai Iron & Steel,2.9114,no candidate,
+CHN,15299,Gansu,Jisco - Jiuquan Iron & Steel/ENRC - Eurasian Natural Resources,2.9087,no candidate,
+CHN,4281,Guangdong,Pioneer Metals,2.9072,no candidate,
+CHN,14934,Hebei,Hebei Wenfeng Iron & Steel,2.8846,ambiguous (>4 plants),
+CHN,4189,Jilin,Siping Xiandai Steel,2.8817,no candidate,
+CHN,4066,Jiangsu,Baowu Steel Group,2.834,"ambiguous company, no location",
+CHN,15306,Yunnan,Sichuan Desheng Group Iron & Steel,2.5619,company+location,P100000120301
+CHN,15426,Xinjiang Uygur,Xinjiang Yili Iron & Steel,2.5439,company+location,P100000120293
+CHN,14941,Jiangsu,Jiangsu Shagang Group,2.4656,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,14924,Henan,Anyang Iron & Steel,2.4639,company+location,P100000120160
+CHN,15424,,Wen'an Iron & Steel,2.4623,no candidate,
+CHN,15409,,Datong Coal Group,2.4103,company only (unique),P100000121087
+CHN,15340,,Shandong Minyuan Iron & Steel,2.3104,company only (unique),P100000120252
+CHN,15304,Shanxi,Shanxi Changping,2.3018,company+location,P100000120270
+CHN,3944,Hubei,CITIC Group,2.252,company+location,P100000120173
+CHN,15338,Yicheng,Jisco - Jiuquan Iron & Steel/ENRC - Eurasian Natural Resources,2.2059,no candidate,
+CHN,3941,Sichuan,Chongqing Iron & Steel,2.1904,company only (unique),P100000120074
+CHN,14929,Henan,Anyang Iron & Steel,2.1857,company+location,P100000120160
+CHN,4029,Shanxi,Hong Yun Coal Chemistry,2.1547,no candidate,
+CHN,4068,Shanxi,Jin Hui Coal & Chemical,2.1547,no candidate,
+CHN,13815,Shaanxi,Shaanxi Hanzhong Iron & Steel,2.1499,company+location,P100000120235; P100000121056
+CHN,10826,Shandong,Minsheng Coking Plant,2.1229,no candidate,
+CHN,13924,Jiangsu,Jiangsu Shagang Group,2.1132,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,3905,Anhui,Anhui Chiangjiang Iron & Steel,2.1101,company+location,P100000120070
+CHN,4200,Tianjin,Tianjin Sbexian County Iron,2.1023,no candidate,
+CHN,15413,Hebei,Hebei Aoyu Iron & Steel,2.0297,ambiguous (>4 plants),
+CHN,15215,Hebei,Hebei Luanhe Industry Group,2.0183,ambiguous (>4 plants),
+CHN,15217,Hebei,Hebei Luanhe Industry Group,1.998,ambiguous (>4 plants),
+CHN,4144,Shanxi,Shanxi Jie Xiu Maosheng Coking Group,1.9392,no candidate,
+CHN,4159,Shanxi,Shanxi Top-Reach Coalification,1.9392,no candidate,
+CHN,15308,Jiangsu,Xuzhou Dongnan Iron & Steel,1.8923,company+location,P100000120198
+CHN,15222,Hebei,Tangshan Beishiti Iron & Steel,1.8496,no candidate,
+CHN,4177,Hebei,Hebei Iron & Steel Group,1.7868,ambiguous (>4 plants),
+CHN,4217,Qinghai,Xining Steel Works,1.781,company+location,P100000120233
+CHN,3993,Liaoning,Fosun Group,1.7666,no candidate,
+CHN,4007,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,1.7355,no candidate,
+CHN,3979,Shanxi,Da Tu He Coal & Coke Industrial,1.7238,no candidate,
+CHN,14107,Shandong,Shandong Juneng Special Steel,1.715,company+location,P100000120247
+CHN,15343,Hebei,Tangshan Guofeng Iron & Steel,1.6986,no candidate,
+CHN,15302,Liaoning,Liaoyang Steel,1.6723,company+location,P100000120333; P100000121051
+CHN,15421,Shandong,Shandong Luli Iron & Steel,1.5931,company+location,P100000120248
+CHN,4242,Shanxi,Xiao Yang Coke,1.5083,no candidate,
+CHN,4260,Shanxi,Ying Xian Coal Carbonization,1.5083,no candidate,
+CHN,4194,Shanxi,Taiyuan Coal Gasification,1.4831,no candidate,
+CHN,5803,Shandong,Shougang Corporation,1.4117,company+location,P100000120247
+CHN,15411,Guangxi,Guangxi Guigang Iron & Steel,1.4091,company+location,P100000120095
+CHN,3938,Sichuan,Panzhihua Iron & Steel Group,1.4042,company+location,P100000120277
+CHN,4199,Tianjin,Tianjin No.2 Coal Gas Plant,1.3401,no candidate,
+CHN,15293,Fujian,Fujian Yixin Iron & Steel,1.3299,company+location,P100000120079
+CHN,4083,Shanxi,Li Shi City Ju Fu Coking Plant,1.2928,no candidate,
+CHN,4151,Shanxi,Shanxi Province Feng Yang Yu,1.2928,no candidate,
+CHN,4085,Shaanxi,Lueyang Iron & Steel,1.2896,company+location,P100000120236
+CHN,4169,Liaoning,Shenyang Coking & Town Gas,1.2508,no candidate,
+CHN,15342,Shanxi,Shanxi Luchengshi Xingbao,1.2481,no candidate,
+CHN,15419,Shandong,Nanjinzhao Steel Works,1.1883,no candidate,
+CHN,4099,Jiangsu,Baowu Steel Group,1.188,"ambiguous company, no location",
+CHN,4078,Shanxi,Linfen City Jin Yao Coal Gasification,1.0773,no candidate,
+CHN,4198,Shanxi,Tianjin General Nice Coke,1.0773,no candidate,
+CHN,4138,Shanghai,Shanxi Coking Enterprise,1.0721,no candidate,
+CHN,4191,Jiangsu,Jiangsu Shagang Group,1.0629,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,10824,Jilin,Changchun Gas,1.0615,no candidate,
+CHN,10825,Guizhou,Guiyang Gas Plant,1.0615,no candidate,
+CHN,4193,Shanxi,Ta Hwai Si,1.0343,no candidate,
+CHN,4111,Jiangsu,Saint Gobain Group,1.0091,no candidate,
+CHN,3960,Heilongjiang,Boli Steel Works,0.9688,no candidate,
+CHN,4021,Hainan,Fosun Group/Hainan Iron & Steel,0.9306,no candidate,
+CHN,4239,Henan,Hebei Iron & Steel Group,0.8999,company+location,P100000120161
+CHN,3978,Liaoning,Dalian Town Corporation,0.8934,no candidate,
+CHN,4036,Henan,Jiaozuo Iron & Steel,0.8838,no candidate,
+CHN,4043,Shanxi,Jie Xiu Jin Dong Coking Plant,0.8619,no candidate,
+CHN,4072,Shanxi,Kang Lao Coking Industrial,0.8619,no candidate,
+CHN,4080,Shanxi,Linfen Ping Yang Coke Plant,0.8619,no candidate,
+CHN,4105,Shanxi,Ping Yao Hua Feng Coking Plant,0.8619,no candidate,
+CHN,4107,Shanxi,Qing Cheng Coking Plant,0.8619,no candidate,
+CHN,4156,Shanxi,Shanxi Sanjia Coal Chemistry,0.8619,no candidate,
+CHN,4157,Shanxi,Shanxi Tan Xin Coking,0.8619,no candidate,
+CHN,4164,Shanxi,Shanxi Wulin Group Qipanshan,0.8619,"ambiguous company, no location",
+CHN,15414,Hebei,Hebei Iron & Steel Group,0.8409,ambiguous (>4 plants),
+CHN,4106,Shanxi,Ping Yao Feng Yang Coking Plant,0.7757,no candidate,
+CHN,4044,Jilin,Jilin Chemical Industrial,0.7147,no candidate,
+CHN,4070,Shandong,Jining Coke Chemical Industrial,0.7147,no candidate,
+CHN,4131,Tianjin,Bohai Iron & Steel,0.6784,"ambiguous company, no location",
+CHN,15339,Hebei,Hangzhou Jinjiang Group,0.6631,no candidate,
+CHN,3985,Shanxi,Dong Sheng  Coking Plant,0.6464,no candidate,
+CHN,4197,Shanxi,Tianjin General Nice Coke,0.6464,no candidate,
+CHN,4206,Shanxi,Tong Li Coking Plant,0.6464,no candidate,
+CHN,4240,Shanxi,Xiao Yang Coke,0.6464,no candidate,
+CHN,4241,Shanxi,Xiao Yang Coke,0.6464,no candidate,
+CHN,4263,Shanxi,Yuan Hui Coke Plant,0.6464,no candidate,
+CHN,4253,Jiangsu,Xuzhou Iron & Steel,0.6336,ambiguous (>4 plants),
+CHN,3932,Heilongjiang,Dongbei Special Steel,0.6244,company+location,P100000120159
+CHN,4139,Shanxi,Shanxi Datong Iron & Steel,0.5986,company+location,P100000121087
+CHN,15219,Nei Mongol,Huaye Special Steel,0.5951,company only (unique),P100001063495
+CHN,13314,Henan,China Special Steel Group,0.5907,company+location,P100000120161; P100000120331
+CHN,4116,Shanghai,Baowu Steel Group,0.5686,company+location,P100000120256; P100000120257
+CHN,15291,Liaoning,Dongbei Special Steel,0.5683,company+location,P100000120227; P100000120228
+CHN,4104,Shanxi,Ping Yao Coal & Coke Manufacturing,0.5602,no candidate,
+CHN,4141,Shanxi,Shanxi Feng Yang Wen Feng,0.5602,no candidate,
+CHN,15515,Jiangsu,Jiangsu Yancheng Lianxin Iron & Steel,0.5366,company+location,P100000120310
+CHN,3982,Shanxi,Datong Gas,0.5361,no candidate,
+CHN,4033,Anhui,Huainan Chemical General,0.5361,no candidate,
+CHN,4208,Shandong,Weifang Soda Ash Plant,0.5361,no candidate,
+CHN,4252,Shanxi,Shanxi Yuazheng Coking & Chemical,0.5361,no candidate,
+CHN,4038,Jiangxi,Jiangxi Metallurgical Industrial,0.5303,no candidate,
+CHN,9003,Jiangsu,Prosperity Minerals,0.5303,no candidate,
+CHN,15420,Shaanxi,Shaanxi Longmen Iron & Steel,0.5225,company+location,P100000120234
+CHN,4027,Shanxi,Hong Fa Coking,0.5171,no candidate,
+CHN,4109,Shanxi,Qing Yuan Coke Plant,0.5171,no candidate,
+CHN,4140,Shanxi,Shanxi Hai Zi Coking Co.,0.5171,no candidate,
+CHN,4148,Shanxi,Shanxi Jin Yang Coking Plant,0.5171,no candidate,
+CHN,4162,Shanxi,Shanxi Xiao Yi Dong Industry,0.5171,no candidate,
+CHN,4163,Shanxi,Shanxi Xiao Yi Dong Industry,0.5171,no candidate,
+CHN,4274,Shanxi,Zhengyang Coking,0.5171,no candidate,
+CHN,15247,Sichuan,Wenzhou Baofeng Steel,0.5059,no candidate,
+CHN,14960,Jiangsu,Jiangsu Shente Steel,0.4939,company+location,P100000120195
+CHN,15139,Shanghai,Shanghai Huaye Iron & Steel,0.4915,no candidate,
+CHN,4028,Shanxi,Hong Xin,0.474,no candidate,
+CHN,4087,Shanxi,Jin Chang Coal Gasification,0.474,no candidate,
+CHN,3974,Liaoning,Dalian Chemical Industrial,0.4467,no candidate,
+CHN,4025,Heilongjiang,Heilongjiang Chemical Plant,0.4467,no candidate,
+CHN,4094,Jiangsu,Fosun Group/Glencore Group,0.4433,no candidate,
+CHN,4088,Fujian,Longyang Iron & Steel Works,0.4419,no candidate,
+CHN,15896,Jiangsu,Changshu Longteng Special Steel,0.4327,company+location,P100000120194
+CHN,4017,Shanxi,Guan Zhuang Enterprise,0.4309,no candidate,
+CHN,4102,Shanxi,Ping Yao Coal & Coke Manufacturing,0.4309,no candidate,
+CHN,4108,Shanxi,Qing Xu County Si Tong Coking,0.4309,no candidate,
+CHN,4149,Shanxi,Shanxi Li Shi Liangyu Jiao Hua,0.4309,no candidate,
+CHN,4150,Shanxi,Shanxi Lu Liang Area Charity,0.4309,no candidate,
+CHN,4152,Shanxi,Shanxi Province Zhengzhong Coal,0.4309,no candidate,
+CHN,4155,Shanxi,Shanxi Sanjia Coal Chemistry,0.4309,no candidate,
+CHN,4158,Shanxi,Shanxi Taoyuan Coking Plant,0.4309,no candidate,
+CHN,4186,Shanxi,Shui Gang Coking Plant,0.4309,no candidate,
+CHN,4195,Shanxi,Taiyuan Hong Do Coking Plant,0.4309,no candidate,
+CHN,4243,Shanxi,Xiao Yi Hua Yuan Coke Plant,0.4309,no candidate,
+CHN,4275,Shanxi,Zhen Xing Coke Plant,0.4309,no candidate,
+CHN,4276,Shanxi,Zhong Pu Coking,0.4309,no candidate,
+CHN,4062,Shanghai,Baowu Steel Group,0.3946,company+location,P100000120256; P100000120257
+CHN,4103,Shanxi,Ping Yao Coal & Coke Manufacturing,0.3878,no candidate,
+CHN,4204,Hebei,Tien Long Coking & Chemical,0.3842,no candidate,
+CHN,4182,Hebei,Shougang Corporation,0.3482,company+location,P100000120106; P100000120107
+CHN,3955,Shanxi,Bei Ji Coke Plant,0.3448,no candidate,
+CHN,3980,Shanxi,Datong City Yong Tong Coking,0.3448,no candidate,
+CHN,4042,Shanxi,Jie Xiu Hong Ming Industrial,0.3448,no candidate,
+CHN,4176,Shanxi,Shi Wa Coke Plant,0.3448,no candidate,
+CHN,4251,Shanxi,Xin Yuan Coal Chemistry Co.,0.3448,no candidate,
+CHN,4262,Shanxi,Yin Yuan Coal Chemistry Co.,0.3448,no candidate,
+CHN,14428,Hebei,Shanxi Datong Iron & Steel/Shougang Corporation,0.3228,company+location,P100000120106; P100000120107
+CHN,4077,Shanxi,Li Ming Coke,0.2844,no candidate,
+CHN,4145,Shanxi,Shanxi Jie Xiu Maosheng Coking Group,0.2844,no candidate,
+CHN,4146,Shanxi,Shanxi Jie Xiu Maosheng Coking Group,0.2844,no candidate,
+CHN,4147,Shanxi,Shanxi Jie Xiu Maosheng Coking Group,0.2844,no candidate,
+CHN,5504,Taipei,Tung Kang Industrial,0.2813,no candidate,
+CHN,4143,Shanxi,Shanxi Jie Xiu Maosheng Coking Group,0.2628,no candidate,
+CHN,3939,Sichuan,Panzhihua Iron & Steel Group,0.2624,company+location,P100000120277
+CHN,3969,Shanxi,China Shanxi Military Farm Coking,0.2586,no candidate,
+CHN,4153,Shanxi,Shanxi Qing Xu Fu Chin Coking,0.2586,no candidate,
+CHN,4161,Shanxi,Shanxi Xiao Yi Dong Industry,0.2586,no candidate,
+CHN,14921,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,0.253,no candidate,
+CHN,15209,Jiangsu,Changda Steel,0.24,company only (unique),P100000120334
+CHN,4214,Hubei,Xialu Iron & Steel,0.2296,no candidate,
+CHN,4221,Jiangsu,Jiangsu Shagang Group/Posco - Pohang Iron & Steel,0.2269,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,4032,Anhui,Huaibei Coking & Chemical,0.2234,no candidate,
+CHN,306,Liaoning,Benxi Iron & Steel,0.2232,company+location,P100000120223; P100000120224; P100000120227
+CHN,9360,Jiangsu,China Steel,0.219,company+location,P100000120210; P100000120346
+CHN,4235,Jiangsu,Wuxi Iron & Steel,0.2163,company+location,P100000120204; P100000120205
+CHN,4034,Shanxi,Hua Nan Coal Marketing,0.2155,no candidate,
+CHN,4035,Henan,Huanghe Coking Plant,0.2155,no candidate,
+CHN,4040,Shanxi,Jia Wei Coking Plant,0.2155,no candidate,
+CHN,4082,Shanxi,Lio Lin Foundry Coke Co.,0.2155,no candidate,
+CHN,4101,Shanxi,Nin Hai Coke Plant,0.2155,no candidate,
+CHN,4211,Shanxi,Wen Fei Coking Plant,0.2155,no candidate,
+CHN,4249,Shanxi,Ying Dong Coking Plant,0.2155,no candidate,
+CHN,4258,Shanxi,Ying Dong Coking Plant,0.2155,no candidate,
+CHN,4261,Shanxi,Ying Xing Coking Plant,0.2155,no candidate,
+CHN,4073,Hebei,Laiyuan Iron & Steel Works,0.2121,company only (unique),P100000120170
+CHN,4181,Hebei,Shougang Corporation,0.2059,company+location,P100000120106; P100000120107
+CHN,3971,Gansu,Chiuchuan,0.2036,no candidate,
+CHN,4860,Liaoning,Panpan Group,0.1954,no candidate,
+CHN,14048,Sichuan,Sichuan Sanzhou Particular Pipe,0.195,no candidate,
+CHN,14169,Shunyi,Beijing Automobile Group/Shougang Corporation,0.1934,"ambiguous company, no location",
+CHN,3942,Liaoning,Fushun Special Steel,0.1892,company+location,P100000120224; P100000120226; P100000120228; P100000120351
+CHN,14164,Liaoning,Beitai Iron & Steel,0.1887,no candidate,
+CHN,3724,Guangdong,JFE Steel Group/Baowu Steel Group,0.1883,company+location,P100000120085
+CHN,13319,Guangdong,E United Group,0.1834,company+location,P100000121044
+CHN,3999,Guangdong,Baowu Steel Group,0.1814,company+location,P100000120085
+CHN,13313,Guangdong,Tsingshan Holding Group,0.1805,company+location,P100000120087
+CHN,4067,Shanxi,Jin Chang Coal Gasification,0.1787,no candidate,
+CHN,4196,Tengzhou,Tengzhou Coking Works,0.1787,no candidate,
+CHN,3972,Sichuan,Chongqing Jiangjing Factory,0.1768,no candidate,
+CHN,3973,Liaoning,Dalian Cheerglory Cast Iron,0.1768,no candidate,
+CHN,4124,Shanxi,Shanxi Yangquan Iron & Steel,0.1768,no candidate,
+CHN,4233,Anhui,Wuhu Iron & Steel,0.1768,no candidate,
+CHN,13979,Hebei,Shanghai Taisheng Steel Holding Group,0.1733,no candidate,
+CHN,14785,Sichuan,Xinxing Cast Pipe,0.1733,no candidate,
+CHN,3981,Shanxi,Datong Coal Mines Li Ming Coke,0.1724,no candidate,
+CHN,4248,Shanxi,Xin Hai Coke Chemical,0.1724,no candidate,
+CHN,4264,Shanxi,Yu Chi Xin Hui Chemical Industrial,0.1724,no candidate,
+CHN,13975,Liaoning,Anshan Iron & Steel/Lingyuan Iron & Steel Group,0.1716,ambiguous (>4 plants),
+CHN,13316,Fujian,Fujian Sansteel/Fujian Fuxin Special Steel,0.1665,company+location,P100000120076; P100000121066
+CHN,5514,Kaohsiung,China Steel,0.1607,"ambiguous company, no location",
+CHN,5413,"Taichung, Houli",Feng Hsin Iron & Steel,0.1596,no candidate,
+CHN,5483,Taipei,Taiwan Iron Mfg.,0.1551,no candidate,
+CHN,4219,Shandong,Walsin Lihwa Specialty Steel,0.1529,no candidate,
+CHN,3956,Shanxi,Bei Liu Coke Plant,0.1508,no candidate,
+CHN,14150,Sichuan,Sichuan Southwest Stainless,0.1459,company+location,P100000120375
+CHN,3934,Sichuan,Anshan Iron & Steel,0.1444,company+location,P100000120277; P100000120278; P100000121080
+CHN,15702,Hebei,Handan Zhuoli Fine Steel Plate,0.1404,no candidate,
+CHN,15337,Jiangsu,Jiangsu Hongtai Steel Works,0.1403,company+location,P100000120386
+CHN,5423,Kaohsiung,Hai Kwang Enterprise,0.1342,no candidate,
+CHN,4056,Guangdong,Panyu Chu Kong Steel Pipe,0.1339,no candidate,
+CHN,14938,,Yuxi Xianfu Iron & Steel Group,0.132,company only (unique),P100000120321
+CHN,4014,Shanxi,Fu You Coking Co.,0.1293,no candidate,
+CHN,4071,Shanxi,Jin Xiang Coke Chemical,0.1293,no candidate,
+CHN,5502,"Taichung, Miao-Li",Tung Ho Steel Enterprise Group,0.1292,no candidate,
+CHN,4009,Jiangsu,Hualin Iron & Steel Group,0.129,no candidate,
+CHN,4188,Guangdong,Sino Master,0.1255,no candidate,
+CHN,4184,Heilongjiang,Shuanyashang Iron & Steel,0.1251,no candidate,
+CHN,15192,Zhaoshun,Zhaoshun Stainless Steel,0.125,no candidate,
+CHN,15698,Tianjin,Tianjin Jiyu Steel,0.1249,no candidate,
+CHN,4119,Shanghai,Shanghai Silicon Steel Sheet,0.1222,no candidate,
+CHN,9019,Shandong,Shandong Molong Petroleum,0.1218,no candidate,
+CHN,15124,Shandong,Shandong Guangzhou,0.1215,company+location,P100000120241
+CHN,4063,Shanghai,Baowu Steel Group,0.1206,company+location,P100000120256; P100000120257
+CHN,4015,Sichuan,Great Wall Special Steel,0.1203,company+location,P100000121080
+CHN,15892,Shandong,Shandong Xiwang Special Steel,0.1197,no candidate,
+CHN,3990,Fujian,Kai Chang Industrial/Nichimen Group,0.1189,no candidate,
+CHN,14122,Zhejiang,Wenzhou Juxing Special Steel,0.1187,no candidate,
+CHN,5518,Tainan,Wei Chih Steel Industrial,0.1187,no candidate,
+CHN,8883,Jiangsu,Jiangsu Dajiang Metal Material,0.1181,no candidate,
+CHN,15113,Jiangsu,Jiangyin Comat Metal Products,0.1168,no candidate,
+CHN,3963,Sichuan,Anshan Iron & Steel,0.1161,company+location,P100000120277; P100000120278; P100000121080
+CHN,15187,Fujian,Fujian Wuhang Stainless Steel,0.1145,company+location,P100000121064
+CHN,4174,Liaoning,Shenyang Steel Rolling General,0.1145,no candidate,
+CHN,15114,Jiangsu,Jiangyin Zongcheng Steel,0.1121,company+location,P100000120191
+CHN,181,Guangdong,Guangdong Huaguan Iron & Steel,0.1109,no candidate,
+CHN,4023,Hebei,Hebei Iron & Steel Group,0.1103,ambiguous (>4 plants),
+CHN,14253,,Qianan Rongxin Industry Group,0.108,no candidate,
+CHN,4074,Gansu,Lanzhou Steel,0.1067,no candidate,
+CHN,15256,Hebei,Tangshan Hongrun Steel,0.1019,no candidate,
+CHN,15168,Zhejiang,Zhejiang Southeast Metal Sheet,0.0977,no candidate,
+CHN,15696,Hebei,NSSMC Group/Baowu Steel Group,0.0976,"ambiguous company, no location",
+CHN,14971,Jiangsu,Jiangsu Lianfeng Energy,0.0967,no candidate,
+CHN,15427,Zhejiang,Zhejiang Jiuli Pipes Works,0.0925,no candidate,
+CHN,15290,,Deyang Bajiao Iron & Steel Group,0.0916,no candidate,
+CHN,4069,,Jingying Yangshan Steel,0.0899,no candidate,
+CHN,3964,Hunan,Changteh,0.0899,no candidate,
+CHN,4110,Hebei,Shougang Corporation,0.0893,company+location,P100000120106; P100000120107
+CHN,4279,Guangdong,China National Petroleum Group,0.0893,no candidate,
+CHN,9362,Jiangsu,NSSMC Group/CITIC Group,0.0893,company+location,P100000120191
+CHN,13389,Zhejiang,Zhejiang Baoji Metal Rolling,0.0893,no candidate,
+CHN,3986,Guangdong,Shiu Wing Steel,0.0866,no candidate,
+CHN,3953,Shanxi,Bao Wan Coking Plant,0.0862,no candidate,
+CHN,14747,Fujian,Anshan Iron & Steel/Fujian Sansteel,0.0824,company+location,P100000120076
+CHN,4134,Shanghai,Baowu Steel Group,0.0812,company+location,P100000120256; P100000120257
+CHN,4121,Shanghai,Baowu Steel Group,0.0809,company+location,P100000120256; P100000120257
+CHN,15194,Jiangsu,NUS Stainless,0.0803,no candidate,
+CHN,15335,Guangdong,Guangdong Yuedong Iron & Steel,0.0786,company+location,P100001063322
+CHN,5503,Taoyuan,Tung Ho Steel Enterprise Group,0.076,no candidate,
+CHN,4238,Jiangsu,Benxi Iron & Steel/Dongkuk Group,0.0759,"ambiguous company, no location",
+CHN,15258,Tianjin,Tianjin Dayi Iron & Steel,0.0747,no candidate,
+CHN,15895,Jiangsu,Zhongyuan Special Steel,0.0746,company+location,P100000120198
+CHN,15894,Hebei,Beihai Chengde Stainless Steel,0.0735,no candidate,
+CHN,15117,Hebei,Hebei Iron & Steel Group,0.0726,ambiguous (>4 plants),
+CHN,4031,Guangdong,Hua Du Iron & Steel,0.0722,no candidate,
+CHN,15197,,Tsingshan Holding Group,0.0718,"ambiguous company, no location",
+CHN,4257,Shanghai,Baowu Steel Group,0.0717,company+location,P100000120256; P100000120257
+CHN,4123,Shanghai,Shanghai Zhong Qing Petroleum,0.0714,no candidate,
+CHN,15198,,Tsingshan Holding Group,0.0708,"ambiguous company, no location",
+CHN,15251,Hebei,Tangshan Beishiti Iron & Steel,0.0702,no candidate,
+CHN,14046,Jiangxi,Jiangxi Hongdu Steel,0.0697,no candidate,
+CHN,4254,Shandong,Baowu Steel Group,0.0696,"ambiguous company, no location",
+CHN,15227,Zhejiang,Wuxi Huaye Iron & Steel,0.0687,no candidate,
+CHN,15289,,China International Steel Products,0.0687,no candidate,
+CHN,15141,Jiangsu,Wuxi Xinda Zhong Steel Sheet,0.0683,no candidate,
+CHN,5462,Kaohsiung,Lung Ching Steel Enterprises,0.0682,no candidate,
+CHN,4100,Zhejiang,Hanwa HQ/Mitsui Group/Ningbo Baoxin Stainless Steel/Nisshin Steel Group/Baowu Steel Group,0.068,"ambiguous company, no location",
+CHN,15111,Jiangsu,Jiangsu Jiangnan Cold Rolled Sheet,0.068,no candidate,
+CHN,15412,Panyu City,Guangzhou Panyu Yufeng,0.068,no candidate,
+CHN,14927,Qilu,Qilu Special Steel,0.0676,no candidate,
+CHN,3991,Fujian,Fujian Mahweuzhong Steelworks,0.0675,no candidate,
+CHN,4273,Jiangsu,Zhangjiagang Yongying Steel,0.0675,no candidate,
+CHN,4086,Henan,Luoyang Steel,0.0659,no candidate,
+CHN,4265,Yunnan,Yunnan Longgang Steel,0.0652,no candidate,
+CHN,15410,,Dongbei Special Steel,0.0642,"ambiguous company, no location",
+CHN,5400,Kaohsiung,Chin Tai Steel Enterprise,0.0637,no candidate,
+CHN,15700,Guangdong,Zhongshan Randa Metal Material,0.0637,no candidate,
+CHN,3958,Shandong,Boai Steel Works,0.0625,no candidate,
+CHN,4081,Shandong,Linzi Ironmaking Plant,0.0625,no candidate,
+CHN,4213,Jiangsu,Walsin Lihwa Specialty Steel,0.0608,no candidate,
+CHN,13967,Jiangsu,Ferro China,0.0607,no candidate,
+CHN,15704,Henan,Henan Jianhui Construction Machyinery,0.0604,no candidate,
+CHN,4039,Jiangsu,Jiangyin Seamless St. Pipe,0.0602,no candidate,
+CHN,5472,Kaohsiung,Shyeh Sheng Fuat Steel & Iron Group,0.0571,no candidate,
+CHN,5497,Taoyuan,Tung Chou Industrial,0.0563,no candidate,
+CHN,4237,Jiangsu,Wuxi Haozhou Steelworks,0.0562,no candidate,
+CHN,15226,Jiangsu,Wuxi Huaye Iron & Steel,0.0552,no candidate,
+CHN,14926,Fujian,Fujian Wuhang Stainless Steel Products,0.0545,company+location,P100000121064
+CHN,4202,Tianjin,Tianjin Tiantie Metallurgical Group,0.0536,no candidate,
+CHN,4000,Guizhou,Shougang Corporation,0.0528,company+location,P100000120096; P100000121067
+CHN,5508,Tainan,Walsin Lihwa Specialty Steel,0.0528,no candidate,
+CHN,13968,Jiangsu,Ferro China,0.052,no candidate,
+CHN,14427,Hunan,Hualin Iron & Steel Group/ArcelorMittal Group,0.051,no candidate,
+CHN,14167,Hebei,Xingtai Aixi'er Electromechanical,0.051,no candidate,
+CHN,15122,Liaoning,Liaoning Xingzhe Sheet Industry,0.051,no candidate,
+CHN,15166,Zhejiang,Sino-Coalition (Ningbo) Steel,0.051,no candidate,
+CHN,15250,Jiangsu,Nanjing Iron & Steel Group,0.051,company+location,P100000120190
+CHN,8899,Jiangsu,Dongkuk Group,0.0491,no candidate,
+CHN,14973,Jiangsu,Nanjing High Speed & Accurate Gear,0.049,no candidate,
+CHN,15253,Hebei,Tangshan Haixing Steel,0.049,no candidate,
+CHN,15891,Ningxia Hui,Ningxia Iron & Steel,0.0475,company+location,P100000120232
+CHN,4201,Tianjin,Marcegaglia/Walsin Lihwa Specialty Steel/Tianjin Tiantie Metallurgical Group,0.0473,no candidate,
+CHN,14166,Zhejiang,China Steel,0.0467,"ambiguous company, no location",
+CHN,15298,Jiangsu,Jiangsu Xindongfang Special Steel,0.0461,no candidate,
+CHN,15890,Guangdong,Guangdong Guoxin Industrial,0.0459,company+location,P100001062833; P100001063170
+CHN,15195,,Tsingshan Holding Group,0.0458,"ambiguous company, no location",
+CHN,15140,Guangdong,Shenzen Huamei Steel,0.045,no candidate,
+CHN,3983,Sichuan,Daxian Iron & Steel,0.045,no candidate,
+CHN,4167,Hubei,China National Petroleum Group,0.0446,no candidate,
+CHN,4280,Sichuan,China National Petroleum Group,0.0446,no candidate,
+CHN,14126,Jiangsu,Wuxi Yulong Steel Tube,0.0446,no candidate,
+CHN,15116,Hebei,Buddha Steel Products,0.0446,no candidate,
+CHN,3961,Sichuan,Anshan Iron & Steel,0.0445,company+location,P100000120277; P100000120278; P100000121080
+CHN,13969,Jiangsu,Ferro China,0.0433,no candidate,
+CHN,14128,Hebei,China National Petroleum Group,0.0433,no candidate,
+CHN,15210,Shanghai,Shanghai Chunye Steel,0.0425,no candidate,
+CHN,15255,Hebei,Tangshan Haixing Steel,0.0425,no candidate,
+CHN,15257,Hebei,Tangshan Lixing Hardware,0.0425,no candidate,
+CHN,5512,Kaohsiung,China Steel,0.0423,"ambiguous company, no location",
+CHN,5486,Hsinchu,Tang Eng Iron Works,0.0419,no candidate,
+CHN,15701,Shandong,Sinosteel Group,0.0418,no candidate,
+CHN,15667,Tianjin,Tianjin Xinyu Colour Plate,0.0412,no candidate,
+CHN,4259,Jiangsu,Yinmain Metal,0.0402,no candidate,
+CHN,8890,Jiangsu,China National Petroleum Group/Kao Hsing Chang Iron & Steel,0.0398,no candidate,
+CHN,15988,Guanajuato,Panyu Chu Kong Steel Pipe,0.0396,no candidate,
+CHN,15989,Jiangsu,Panyu Chu Kong Steel Pipe,0.0396,no candidate,
+CHN,15990,Jiangsu,Panyu Chu Kong Steel Pipe,0.0396,no candidate,
+CHN,15991,Zhejiang,Panyu Chu Kong Steel Pipe,0.0396,no candidate,
+CHN,4171,Liaoning,Shenyang Steel Rolling General,0.0381,no candidate,
+CHN,15184,Guangdong,Zhongshan Zhongyue Tinplate,0.0375,no candidate,
+CHN,15707,Hebei,Bazhou Huadong Metal Products,0.0367,no candidate,
+CHN,8920,Jiangsu,Jiangsu Dalishen,0.0365,no candidate,
+CHN,15123,Sichuan,Panzhihua Iron & Steel Group,0.0364,company+location,P100000120277
+CHN,15142,Liaoning,Yingkou Panpan Chaoshuo,0.0361,no candidate,
+CHN,8935,Tianjin,Pingtian,0.0357,"ambiguous company, no location",
+CHN,4236,Jiangsu,Benxi Iron & Steel/Wuxi Lianxi Cold Rolled Steel,0.0357,"ambiguous company, no location",
+CHN,3907,Liaoning,ThyssenKrupp Group/Anshan Iron & Steel,0.0357,company+location,P100000120219; P100000120220; P100000120221; P100000120224
+CHN,9363,Jiangsu,Walsin Lihwa Specialty Steel,0.0357,no candidate,
+CHN,4166,Guangdong,Shaoguan Special Steel,0.0351,no candidate,
+CHN,13367,Liaoning,Benxi Iron & Steel/Posco - Pohang Iron & Steel,0.035,company+location,P100000120223; P100000120224; P100000120227
+CHN,14053,Anhui,Anhui Tianda Seamless Tube,0.0343,no candidate,
+CHN,15231,,China Gohigh Group,0.0343,no candidate,
+CHN,5501,Kaohsiung,Tung Ho Steel Enterprise Group,0.0342,no candidate,
+CHN,15213,Daqiuzhuang,General Steel Holdings,0.034,"ambiguous company, no location",
+CHN,15234,Zhejiang,Ningbo Yinzhan Precision Sheet,0.034,no candidate,
+CHN,15246,Sanhe,Anshan Iron & Steel,0.034,"ambiguous company, no location",
+CHN,3949,Fujian,Asahi Industries,0.0339,no candidate,
+CHN,15259,,Yuangping Iron & Steel,0.0336,company only (unique),P100000121151
+CHN,14970,Fujian,China National Petroleum Group,0.033,no candidate,
+CHN,5454,,Kang Shan Enterprises,0.0318,no candidate,
+CHN,5420,"Tainan, Hsin Ying",Gloria Material Technology,0.0313,no candidate,
+CHN,4076,Liaoning,China National Petroleum Group,0.0312,no candidate,
+CHN,4127,Fujian,Hebei Iron & Steel Group/Southern NatSteel (Xiamen),0.0312,"ambiguous company, no location",
+CHN,15110,Hebei,Baowu Steel Group,0.0297,"ambiguous company, no location",
+CHN,15344,Zhejiang,Zhejiang Shengda Steel Works,0.0297,no candidate,
+CHN,3952,Shaanxi,China National Petroleum Group,0.0289,no candidate,
+CHN,5516,Taipei,Tong Shen Steel & Iron,0.0286,no candidate,
+CHN,4001,Hainan,Hainan Haiwoo Tinplate/Daewoo Group/JFE Steel Group/Dongyang Tinplate Group/Nissho Iwai Group,0.0286,no candidate,
+CHN,4048,Hebei,China National Petroleum Group/Marubeni Group,0.0286,no candidate,
+CHN,4045,Jilin,Hyundai Steel Group/Jilin Hyundai Pipe,0.0268,no candidate,
+CHN,4093,Guangdong,Nanfang Steel,0.0268,company+location,P100000120380
+CHN,4207,Guangdong,Wangtong Steel Pipe,0.0268,no candidate,
+CHN,8980,Xinjiang Uygur,Xinjiang Bayi Iron & Steel Group,0.0268,company+location,P100000120289
+CHN,9375,Guangdong,China Steel,0.0268,"ambiguous company, no location",
+CHN,9004,Jiangsu,Gunawan Dianjaya Steel/Changzhou Yichen Special Steel,0.0268,no candidate,
+CHN,4016,Guangdong,Guangzhou Special Shaped Steel,0.0268,no candidate,
+CHN,4006,Liaoning,Huludao General Steel Tube Plant/Lingyuan Iron & Steel Group,0.0266,company+location,P100000120225
+CHN,15691,Tianjin,Anshan Iron & Steel/Tianjin Tiantie Metallurgical Group,0.0257,company+location,P100000120284
+CHN,15167,Shanghai,South Polar Lights Steel,0.0255,no candidate,
+CHN,15254,Hebei,Tangshan Haixing Steel,0.0255,no candidate,
+CHN,14602,Hebei,Cangzhou Fengye Pipe Fitting,0.0252,no candidate,
+CHN,3967,Sichuan,Chengdu Experimental Plant,0.0251,no candidate,
+CHN,15697,Jiangsu,Novowell ETP,0.0246,no candidate,
+CHN,3948,Fujian,Tomen Group/Kawasho Group/Fujian Toceka Tinplate/JFE Steel Group/Ton Yi Industrial,0.0245,no candidate,
+CHN,15710,Zhejiang,Hangzhou Huayi Trading,0.0245,no candidate,
+CHN,15711,Jiangsu,Jiangsu Wuying Precision Sheet,0.0245,no candidate,
+CHN,4064,Shanghai,Outokumpu Group/Pangang Chengdu Seamless Steel Tube,0.0243,no candidate,
+CHN,4187,Guangdong,Shunde Shun Fung Ironworks,0.0241,no candidate,
+CHN,15699,Guangdong,Zhong Fang Industrial,0.0229,no candidate,
+CHN,15713,Hebei,Langfang Golden Strength Metal,0.0229,no candidate,
+CHN,4126,Guangdong,Posco - Pohang Iron & Steel,0.0228,no candidate,
+CHN,3987,Shantou,East Union Resources,0.0223,no candidate,
+CHN,4175,Liaoning,Shenyang Wire & Rod Plant,0.0223,no candidate,
+CHN,10478,,North China Oil Line Pipe,0.0223,no candidate,
+CHN,5513,Kaohsiung B,China Steel,0.0218,"ambiguous company, no location",
+CHN,117,,BlueScope Steel Group,0.0217,no candidate,
+CHN,14106,Shanxi,Shanxi Dehui Seamless Tube,0.0214,no candidate,
+CHN,15125,Baode,Shandong Iron & Steel Group,0.0212,"ambiguous company, no location",
+CHN,14673,Zhejiang,Zhejiang Kingland Pipe Industry,0.0206,no candidate,
+CHN,14901,Fujian,Fujian Dingxin Nie Industry,0.0206,company+location,P100000120081
+CHN,15189,Kunshan,Daekyung,0.0205,no candidate,
+CHN,14922,Zhejiang,Zhejiang Quzhou Yuanli Metal,0.0204,no candidate,
+CHN,15185,,Posco - Pohang Iron & Steel/Zhongshan Zhongyue Tinplate,0.0204,no candidate,
+CHN,15703,Jiangsu,Jiangyin Hon Win Packing Material,0.0204,no candidate,
+CHN,16010,,Sinosteel Group,0.0204,no candidate,
+CHN,15188,Xinyuan,Xinyuan Stainless Steel Products,0.0204,no candidate,
+CHN,594,Shandong,Huaren Qingdao Gangye,0.02,no candidate,
+CHN,15658,Zhejiang,Yongxing Special Stainless Steel,0.0198,no candidate,
+CHN,14672,Guangdong,Guangzhou Tiancheng Stainless,0.0198,no candidate,
+CHN,5409,Kaohsiung,Dah Yung Steel Mfg.,0.019,no candidate,
+CHN,5382,Kaohsiung,China Steel,0.019,"ambiguous company, no location",
+CHN,15297,Jiangsu,Jiangsu Xihu Special Steel,0.0187,no candidate,
+CHN,3962,Sichuan,Anshan Iron & Steel,0.0184,company+location,P100000120277; P100000120278; P100000121080
+CHN,5447,Taipei,Nan Lung Steel & Iron,0.018,no candidate,
+CHN,3977,Liaoning,Dalian Steel Rolling Mill,0.0179,no candidate,
+CHN,14120,Fujian,TKC Steel Group,0.0179,no candidate,
+CHN,14653,Guangdong,Foshan MFY Stainless,0.0172,no candidate,
+CHN,15191,Shanghai,Shanghai Qichang Stainless Steel,0.0171,no candidate,
+CHN,295,Xingdu,Xingdu Sheet,0.017,no candidate,
+CHN,14974,Shandong,Zibo Zhangang Iron & Steel,0.017,no candidate,
+CHN,15232,,Daziran Steel,0.017,no candidate,
+CHN,15252,Hebei,Tangshan Haixing Steel,0.017,no candidate,
+CHN,15415,Nei Mongol,HNIC - Inner Mongolia North Heavy Ind.,0.017,no candidate,
+CHN,15416,Jiangsu,Zhongyuan Pipe,0.017,no candidate,
+CHN,15143,Jiangsu,Zhangjiagang NewGangxing,0.0167,no candidate,
+CHN,3998,Guangdong,NSSMC Group/Mitsui Group/Guangzhou Pacific Tinplate/Sojitz Group,0.0163,no candidate,
+CHN,3880,Jiangsu,Jiangsu Guolian New Material,0.0163,no candidate,
+CHN,14587,Hebei,Langfang Kunfeng Steel,0.0163,no candidate,
+CHN,15118,Jiangsu,Jiangyin Kemao Metal Products,0.0163,no candidate,
+CHN,8900,Shandong,Posco - Pohang Iron & Steel,0.0161,no candidate,
+CHN,5493,Taipei,Suanchin Steel Ind.,0.0159,no candidate,
+CHN,5385,Kaohsiung,Chang - E. Iron & Steel Group,0.0158,no candidate,
+CHN,5419,Kaohsiung,General Steel,0.0157,"ambiguous company, no location",
+CHN,5426,Kaohsiung,China Steel,0.0156,"ambiguous company, no location",
+CHN,4022,Hainan,Baowu Steel Group,0.0152,"ambiguous company, no location",
+CHN,15705,Tianjin,Tianjin Furen Tinplate,0.0147,no candidate,
+CHN,5410,"Tainan, Shanhau",East Asia Steel,0.0143,no candidate,
+CHN,5405,Taipei,Ching San Iron Works,0.0135,no candidate,
+CHN,4089,Malanzhuang,Malanzhuang Iron Mine,0.0134,no candidate,
+CHN,4008,Jiangsu,Tomen Group/Kawasho Group/Wuxi Iron & Steel/JFE Steel Group/Ton Yi Industrial,0.0131,company+location,P100000120204; P100000120205
+CHN,15112,Jiangsu,Jiangsu Shagang Group,0.0127,company+location,P100000120188; P100000120189; P100000120192; P100000120207
+CHN,5481,Taipei,Tai Lung Steel,0.0127,no candidate,
+CHN,5465,Kaohsiung,Nan Feng Steel Enterprise,0.0125,no candidate,
+CHN,3947,Fujian,Fujian Sino-Japan Tinplate/JFE Steel Group/Tung Ho Steel Enterprise Group,0.0122,no candidate,
+CHN,15708,Tianjin,Tianjin Jindong Jukun Metal Prods.,0.0122,no candidate,
+CHN,3957,Sichuan,Bishan Iron & Steel Works,0.012,no candidate,
+CHN,5470,Kaohsiung,Tomen Group/Yodogawa Steel Works Group/Sheng Yu Steel,0.0119,no candidate,
+CHN,13455,Jiangsu,Jiangsu Tiangong Industrial,0.0119,no candidate,
+CHN,4046,Shandong,Jining Iron & Steel Works,0.0112,"ambiguous company, no location",
+CHN,5442,Chiayi,Li Chong Steel & Iron Works,0.0112,no candidate,
+CHN,15690,Jiangsu,Jiangyin Chang Fa,0.011,no candidate,
+CHN,4192,Guangdong,Tai Feng Qiao Metal Products,0.0107,no candidate,
+CHN,15417,Jiangsu,Jiangsu Shenyuan Special Steel,0.0102,no candidate,
+CHN,5515,Chiayi,Yung Tai Steel & Iron,0.0096,no candidate,
+CHN,5401,Hsinchu Hsien,Chin Yi Chang Steel,0.0095,no candidate,
+CHN,5494,Taipei,Tai Lee Industrial,0.0095,no candidate,
+CHN,4168,Zhejiang,Shaoxing Steel,0.0089,no candidate,
+CHN,3943,Liaoning,Dalian Posco-CFM Coated/Posco - Pohang Iron & Steel,0.0089,no candidate,
+CHN,3989,Jiangxi,Fengcheng Steel Rolling,0.0089,no candidate,
+CHN,4030,Hebei,China National Petroleum Group,0.0089,no candidate,
+CHN,4095,Jiangsu,Nanjing Steel Tube Mill,0.0089,no candidate,
+CHN,4165,Heilongjiang,China National Petroleum Group,0.0089,no candidate,
+CHN,4173,Liaoning,Benxi Iron & Steel/Dongkuk Group,0.0089,company+location,P100000120223; P100000120224; P100000120227
+CHN,4212,Guangdong,Baowu Steel Group,0.0089,company+location,P100000120085
+CHN,4220,Jiangsu,Zhangjiagang Pohang Coated,0.0089,no candidate,
+CHN,5813,Shandong,Luzhong Iron & Steel,0.0089,no candidate,
+CHN,1098,Jiangsu,NSSMC Group/Vallourec Group,0.0089,no candidate,
+CHN,3959,Hebei,Bohai Drill Pipe/JFE Steel Group,0.0087,no candidate,
+CHN,13970,Jiangsu,Ferro China,0.0087,no candidate,
+CHN,14118,Zhejiang,Ningbo New-Era Steel Tube,0.0087,no candidate,
+CHN,5496,Tainan,Ton Yi Industrial,0.0085,no candidate,
+CHN,15193,Hebei,Tangshan Hongwen Stainless,0.0085,no candidate,
+CHN,15235,Shanghai,Shanghai Chengtong Precision Strip,0.0085,no candidate,
+CHN,15303,Ningxia Hui,Ningxia Hengli Steel Wire Rope,0.0085,no candidate,
+CHN,15709,Tianjin,Tianjin Jiancai Steel,0.0085,no candidate,
+CHN,402,Tianjin,Kanzen Tetsu/Bohai Iron & Steel,0.0082,"ambiguous company, no location",
+CHN,5511,Kaohsing A,China Steel,0.0082,"ambiguous company, no location",
+CHN,15046,Hebei,Tangshan Fengrun Xinjiyuan Steel,0.0082,no candidate,
+CHN,15120,Hebei,Langfang Fuxin Steel Sheet,0.0082,no candidate,
+CHN,15712,Jiangsu,Jiangyin Zaiyu Metal Materials,0.0082,no candidate,
+CHN,15714,Jiangsu,Wuxi Kunhong Steel,0.0082,no candidate,
+CHN,4120,Shanghai,Allegheny Technologies Group/Shanghai Iron & Steel No.10,0.0081,company+location,P100000120257
+CHN,15682,Hunan,Shinestar Holdings Group,0.0081,no candidate,
+CHN,4277,Guangdong,China National Petroleum Group,0.008,no candidate,
+CHN,15741,Hunan,EZ Steel,0.008,no candidate,
+CHN,5432,Taichung,Jin Tay San Steel Manufacturing,0.008,no candidate,
+CHN,15893,Sichuan,Sichuan Linke Forging,0.0079,no candidate,
+CHN,4096,Nanning,Nanning Steel,0.0071,no candidate,
+CHN,5450,Kaohsiung,China Steel,0.0071,"ambiguous company, no location",
+CHN,4135,Shanghai,Baowu Steel Group,0.0067,company+location,P100000120256; P100000120257
+CHN,4026,Guangdong,Hingwah Metals,0.0064,no candidate,
+CHN,15248,,Wenzhou Baofeng Steel,0.0064,no candidate,
+CHN,5429,Taichung,Hsinkuo Steel,0.0064,no candidate,
+CHN,5406,Taichung,Chin Yung Sheng Steel,0.0063,no candidate,
+CHN,4041,Hubei,Jiayu Steel Pipe,0.0062,no candidate,
+CHN,5461,Kaohsiung,Lien Ho Hsing Steel,0.0057,no candidate,
+CHN,3966,Jiangsu,Vallourec Group/Timet Group,0.0054,no candidate,
+CHN,14962,,Lo Toun Steel Work,0.0053,no candidate,
+CHN,15301,Shandong,ArcelorMittal Group/Kiswire,0.0051,no candidate,
+CHN,15715,Tianjin,Sino East Steel Enterprise,0.0049,no candidate,
+CHN,5424,Kaohsiung,Hweitai Steel,0.0048,no candidate,
+CHN,5438,Taipei,Kingsan Iron Works Grouop,0.0048,no candidate,
+CHN,5402,Tainan,Chia Yi Industrial,0.0047,no candidate,
+CHN,5427,Kaohsiung,China Steel,0.0047,"ambiguous company, no location",
+CHN,5433,Kaohsiung A,Kao Hsing Chang Iron & Steel,0.0046,no candidate,
+CHN,5484,Kaohsiung,Taiwan Machinery Manufacturing,0.0046,no candidate,
+CHN,3935,Jilin,Changchun Cold Rolled Steel,0.0045,no candidate,
+CHN,3965,Jiangsu,Baowu Steel Group,0.0045,"ambiguous company, no location",
+CHN,4018,Heilongjiang,Haerbin Strip Plant,0.0045,no candidate,
+CHN,4090,Liaoning,Manjiatan Steel Rolling,0.0045,no candidate,
+CHN,4091,Henan,Meng Seamless Steel Tube,0.0045,no candidate,
+CHN,4097,Fujian,Nanping Steel Plant,0.0045,no candidate,
+CHN,4098,Jiangsu,Nantong Special Steel,0.0045,company+location,P100000120332
+CHN,4117,Shanghai,Shanghai Just-Huahai Metal,0.0045,no candidate,
+CHN,4137,Shanghai,Baowu Steel Group,0.0045,company+location,P100000120256; P100000120257
+CHN,4172,Liaoning,Shenyang Seamless Steel Tube,0.0045,no candidate,
+CHN,4256,Shanghai,Baowu Steel Group,0.0045,company+location,P100000120256; P100000120257
+CHN,4266,Yunnan,Yunnan Metallurgical/Marubeni Group,0.0045,no candidate,
+CHN,14162,Shanghai,Tsingshan Holding Group,0.0045,"ambiguous company, no location",
+CHN,14264,Zhejiang,Zhejiang Hongkang Stainless Steel,0.0045,no candidate,
+CHN,15396,,Han Tai Steel & Iron Works,0.0043,no candidate,
+CHN,3970,Yunnan,Chin Hong Galvanising/Marubeni Group,0.0043,no candidate,
+CHN,5466,Tainan,China Steel,0.0043,"ambiguous company, no location",
+CHN,15119,Jiangsu,Zhongxin Taifu Special Steel Group,0.0042,no candidate,
+CHN,15186,Liaoning,Anshan Dongya Precision Stainless,0.0042,company+location,P100000120219; P100000120220; P100000120221; P100000120224
+CHN,15336,"Hebei, Hebei Jincheng Special Steel","Hebei Jincheng Special Steel,",0.0042,ambiguous (>4 plants),
+CHN,14429,Zhejiang,Zhejiang Xinyongmao Stainless,0.0038,no candidate,
+CHN,5509,Kaohsiung,Ya Chao Steel Manufacturing,0.0038,no candidate,
+CHN,5399,Taoyuan,Chin Ling Steel,0.0038,no candidate,
+CHN,15329,,Quintain Steel,0.0036,no candidate,
+CHN,3951,Guangdong,Bao Hwa Re-rolling Mill,0.0036,no candidate,
+CHN,4113,Shanghai,Shanghai Pacific Steel Pipe,0.0036,no candidate,
+CHN,5431,Taichung,Jhy Chen Steel & Iron,0.0034,no candidate,
+CHN,5391,Taoyuan,Chia San Iron & Steel Industries,0.0034,no candidate,
+CHN,5495,Kangshan,Tehyi Steel Group,0.0033,no candidate,
+CHN,302,Taipei,Tung Kwan Steel & Machinery,0.0032,no candidate,
+CHN,5430,Kaohsiung,Hsin Yee Metal Industry,0.0032,no candidate,
+CHN,5456,Taichung,Kingyang Steel,0.0032,no candidate,
+CHN,5457,Taichung,Kinhsin Iron & Steel,0.0032,no candidate,
+CHN,5458,Taichung,Kintaisan Steel,0.0032,no candidate,
+CHN,5460,Kaohsiung,Kuo Min Steel,0.0032,no candidate,
+CHN,5476,Taipei,Sinfa Steel,0.0032,no candidate,
+CHN,5489,Chungli,Tehyi Steel Group,0.0032,no candidate,
+CHN,5491,Taipei,Sintaiyang Machine,0.0032,no candidate,
+CHN,5519,Kaohsiung,Yuensen Industry,0.0032,no candidate,
+CHN,5393,"Taichung, Mao-Li",Chien Shun Steel & Plastic,0.003,no candidate,
+CHN,13457,Zhejiang,Zhejiang East Tools Manufacture,0.0029,no candidate,
+CHN,13454,Hebei,NSSMC Group/HSS - Hebei Metallurgical,0.0029,ambiguous (>4 plants),
+CHN,5505,Tainan Hsien,Tung Mung Development,0.0028,no candidate,
+CHN,4060,Shaanxi,Shaanxi Precision Alloy,0.0026,no candidate,
+CHN,15230,,Zhengyuan Technology,0.0025,no candidate,
+CHN,15288,Jilin,Jianlong Iron & Steel Group,0.0025,company+location,P100000120215; P100000120387
+CHN,4019,Heilongjiang,Haerbin Steel Tube Plant,0.0022,no candidate,
+CHN,4024,Guangxi,Hechi Steel Plant,0.0021,no candidate,
+CHN,9116,Tianjin,Walsin Lihwa Specialty Steel/Tianjin Tiantie Metallurgical Group,0.0018,no candidate,
+CHN,10365,Shanghai,Walsin Lihwa Specialty Steel,0.0018,no candidate,
+CHN,15121,Liaocheng,Liaocheng Jinguan Precision Sheet,0.0017,no candidate,
+CHN,3988,Jiangxi,Fengcheng,0.0017,no candidate,
+CHN,5455,Kaohsiung,Kaohsiung Iron Works,0.0016,no candidate,
+CHN,5492,Yuan Hsien,Song Shan Steel,0.0016,no candidate,
+CHN,15233,Zhejiang,Ningbo Qiyi Precision Metals,0.0015,no candidate,
+CHN,5403,Tainan,Chien Shing Stainless,0.0014,no candidate,
+CHN,5390,"Taichung, Fung Yuen",Chia Hsin Metal Industrial,0.0014,no candidate,
+CHN,15180,,Acers Steel Industrial,0.0014,no candidate,
+CHN,4118,Shanghai,Shanghai Shaped Steel Tube,0.0013,no candidate,
+CHN,5386,Kaohsiung,Chang Mien Industries,0.0012,no candidate,
+CHN,13456,Guangdong,Shenzhen Fangyuan Special Steel,0.0012,no candidate,
+CHN,5412,Chiayi,Far East Machinery,0.0012,no candidate,
+CHN,5418,Kaohsiung,Fu Sheng Steel Industrial,0.0011,no candidate,
+CHN,5436,Taichung,Kim Ho Sheng Industrial,0.0011,no candidate,
+CHN,5499,Taoyuan,Tung Gen Steel Manufacturing,0.0011,no candidate,
+CHN,15274,Kaohsiung,TS Steel,0.0011,no candidate,
+CHN,5474,Taipei,Shinfa Steel Making,0.0009,no candidate,
+CHN,3984,Guangdong,Dongfeng Stainless Steel Pipe,0.0009,no candidate,
+CHN,4115,Shanghai,Shanghai No.3 Cold Rolled Strip,0.0009,no candidate,
+CHN,10366,Shanghai,Walsin Lihwa Specialty Steel,0.0009,no candidate,
+CHN,15190,Zhejiang,Ningbo Yongzheng Stainless Steel,0.0008,no candidate,
+CHN,5434,Kaohsiung B,Kao Hsing Chang Iron & Steel,0.0008,no candidate,
+CHN,3968,Liaoning,Chifeng Steel,0.0008,"ambiguous company, no location",
+CHN,5428,Kaohsiung,Fu Sing Steel,0.0008,no candidate,
+CHN,5394,Taoyuan,Chih Lien Industrial,0.0008,no candidate,
+CHN,5392,Taichung,Chien Sheng Steel Industry,0.0008,no candidate,
+CHN,5398,Kaohsiung,Chin Ho Fa Steel & Iron,0.0006,no candidate,
+CHN,768,Kaohsiung,China Steel,0.0006,"ambiguous company, no location",
+CHN,5451,Changhua,San Wu Steel Industrial,0.0006,no candidate,
+CHN,5507,Kaohsiung,Vulcan Industrial,0.0005,no candidate,
+CHN,5411,Kaohsiung,Ever Steel Enterprise,0.0005,no candidate,
+CHN,5464,Kaohsiung,Mayer Steel Pipe,0.0005,no candidate,
+CHN,5498,Taichung,Tungan Steel Industries,0.0005,no candidate,
+CHN,15196,Shanghai,Tsingshan Holding Group,0.0004,"ambiguous company, no location",
+CHN,5404,Kaohsiung,Ching Fu Steel Enterprise,0.0004,no candidate,
+CHN,5445,Taipei,Minfungtai Iron & Steel Works,0.0004,no candidate,
+CHN,5490,Taipei,Sei Yung Steel Wire Mill,0.0004,no candidate,
+CHN,5467,Taipei,Shang Hsing Steel Industrial,0.0003,no candidate,
+CHN,5510,Chang Hwa,Yeun Chyang Industrial,0.0003,no candidate,
+CHN,5407,Taipei,Chou's Iron & Steel,0.0003,no candidate,
+CHN,5408,Taipei,Chun Ho Fa Steel & Iron,0.0003,no candidate,
+CHN,5488,Kaohsiung,Sei Yung Steel Wire Mill,0.0003,no candidate,
+CHN,5446,Chiayi,Nan Kwang Iron & Steel,0.0002,no candidate,
+CHN,5415,Taipei,Fu Chang Metal Industrial,0.0002,no candidate,
+CHN,5421,Kaohsiung,Great Honor Steel-Iron Works,0.0002,no candidate,
+CHN,5477,Tainan,Ta Chen Stainless Pipe,0.0002,no candidate,
+CHN,5383,Taipei,Billy Steel,0.0002,no candidate,
+CHN,5435,Kaohsiung,Kao Yung Steel Enterprise,0.0002,no candidate,
+CHN,5443,Kaohsiung,Lien's Steel Industrial,0.0002,no candidate,
+CHN,5449,Kaohsiung,Nan Yet Steel Enterprises,0.0002,no candidate,
+CHN,5475,Taipei,Shin Sheng Steel Manufacturing,0.0001,no candidate,
+CHN,5387,Kaohsiung,Chentai Steel Enterprise,0.0001,no candidate,
+CHN,5389,Taoyuan,Chia Far Industrial Factory,0.0001,no candidate,
+CHN,5416,Taichung,Funglun Iron Works,0.0001,no candidate,
+CHN,5425,Tuo-Liu,Jaung Yuann Enterprise,0.0001,no candidate,
+CHN,5480,Taipei,Tahyue Steel,0.0001,no candidate,
+CHN,5522,Chiayi,Yu-Nion Machinery,0.0001,no candidate,
+CHN,5444,Taoyuan,Lih Ying Steel,0.0001,no candidate,
+CHN,5469,Taipei,Shang Tai Steel,0.0001,no candidate,
+CHN,5396,Changa-Hua Hsien,Ching Hann Industries,0.0,no candidate,
+CHN,3954,Beijing,Beijing Coking & Chemical,0.0,no candidate,
+CHN,4020,Anhui,Haier Group,0.0,no candidate,
+CHN,4180,Beijing,Shougang Corporation,0.0,"ambiguous company, no location",
+CHN,4190,Jiangsu,Suzhou Dong Shan Color/Dong Shin Special Steel,0.0,no candidate,
+CHN,4225,"Tuen Mun, New Territories",Shiu Wing Steel,0.0,no candidate,
+CHN,5453,Kaohsiung,Kai Chang Industrial,0.0,no candidate,
+CHN,15115,Shandong,Qingdao Iron & Steel Group/Komelon Steel,0.0,company+location,P100000120239
+IND,4398,Chattisgarh,Jindal Group,18.9078,company+location,P100000120516; P100001062086
+IND,4346,Gujarat,NSSMC Group/ArcelorMittal Group,18.1907,company+location,P100000120513
+IND,4388,Maharashtra,Jindal Group,17.2686,"ambiguous company, no location",
+IND,366,Jharkhand,Tata Steel Group,15.2123,company+location,P100000120529; P100000120535
+IND,14699,Orissa,Jindal Group,14.4078,"ambiguous company, no location",
+IND,4407,Karnataka,Jindal Group,10.3489,"ambiguous company, no location",
+IND,4498,Jharkhand,SAIL - Steel Authority Group,9.0749,company+location,P100000120526; P100001081803
+IND,4486,Andhra Pradesh,Vizag Steel,7.9632,company+location,P100000120531
+IND,13374,Orissa,Tata Steel Group,7.0179,"ambiguous company, no location",
+IND,4521,Orissa,SAIL - Steel Authority Group,7.0066,"ambiguous company, no location",
+IND,4497,Chattisgarh,SAIL - Steel Authority Group,6.4945,company+location,P100000120525
+IND,15229,Orissa,Bhushan Steel,4.8021,"ambiguous company, no location",
+IND,4499,West Bengal,SAIL - Steel Authority Group,4.7397,company+location,P100000120524; P100000120527; P100000120549
+IND,15228,Orissa,Bhushan Steel & Strips Group,4.7153,no candidate,
+IND,4457,Maharashtra,Jindal Group,4.5265,"ambiguous company, no location",
+IND,4501,West Bengal,SAIL - Steel Authority Group,3.6248,company+location,P100000120524; P100000120527; P100000120549
+IND,10325,Chattisgarh,NMDC Group/SAIL - Steel Authority Group,3.5906,company+location,P100000120523; P100000120525
+IND,14856,Karnataka,BMM Ispat,3.5533,company+location,P100000120512
+IND,13370,Orissa,Visa Steel,2.6831,no candidate,
+IND,4576,Orissa,Tata Steel Group,2.3856,"ambiguous company, no location",
+IND,4508,Madhya Pradesh,Prakash Industries,2.226,"ambiguous company, no location",
+IND,4450,Orissa,Stemcor Group/Mesco - Mideast Integrated Steels,1.8875,no candidate,
+IND,4356,Maharashtra,Jindal Group,1.8498,"ambiguous company, no location",
+IND,4438,Maharashtra,Uttam Galva Steels Group,1.8351,no candidate,
+IND,4404,Madhya Pradesh,Jayaswal Neco Industries,1.5434,company only (unique),P100000120547
+IND,13535,Rourkela,Adhunik Metaliks Group,1.3653,company only (unique),P100001025815
+IND,15373,Tamil Nadu,Jindal Group,1.3642,"ambiguous company, no location",
+IND,4368,Andhra Pradesh,Gold Star Steel & Alloy,1.3457,no candidate,
+IND,15371,Madhya Pradesh,MSPL - Mineral Sales Group,1.2644,no candidate,
+IND,4478,Orissa,SAIL - Steel Authority Group,1.2021,"ambiguous company, no location",
+IND,4622,Gujarat,Jindal Group,1.1463,"ambiguous company, no location",
+IND,4445,Uttar Pradesh,Usha Alloys & Steels Group,1.0886,no candidate,
+IND,4395,Maharashtra,Jindal Group,1.0348,"ambiguous company, no location",
+IND,4372,Gujarat,NSSMC Group/Stemcor Group/ArcelorMittal Group,1.0104,company+location,P100000120513
+IND,4597,West Bengal,Tata Steel Group,0.9411,company+location,P100000120546
+IND,4537,Maharashtra,Sunflag Iron & Steel Group,0.9341,company+location,P100000120575
+IND,4313,Bihar,Bihar Sponge Iron,0.9175,no candidate,
+IND,4464,Orissa,Orissa Sponge Iron,0.9175,company+location,P100000120563
+IND,15376,Madhya Pradesh,Ruchi Group,0.8991,no candidate,
+IND,4462,Madhya Pradesh,Nova Iron & Steel,0.8724,no candidate,
+IND,4587,Maharashtra,Uttam Galva Steels Group,0.7741,no candidate,
+IND,4326,Maharashtra,Bhushan Steel & Strips Group,0.7645,no candidate,
+IND,4296,Orissa,Aarti Steels & Power,0.7592,no candidate,
+IND,14447,Orissa,Stemcor Group/Mesco - Mideast Integrated Steels,0.7229,no candidate,
+IND,414,Maharashtra,Bhushan Steel & Strips Group,0.7111,no candidate,
+IND,4609,Maharashtra,Fomento Industrial,0.7103,no candidate,
+IND,15269,,SKS Ispat & Power,0.6604,no candidate,
+IND,4329,West Bengal,Birla Hindalco Group,0.6442,no candidate,
+IND,4518,Madhya Pradesh,Rajinder Steel,0.6134,no candidate,
+IND,4337,West Bengal,Durgapur Projects,0.5708,no candidate,
+IND,4382,Maharashtra,Kalyani Steel Group,0.5368,"ambiguous company, no location",
+IND,14151,Kandla,Mitsui Group/Ruchi Group,0.4789,no candidate,
+IND,4422,Maharashtra,Jindal Group,0.4699,"ambiguous company, no location",
+IND,15444,Orissa,Rathi Group,0.4697,no candidate,
+IND,4579,Bihar,Tata Steel Group,0.4659,"ambiguous company, no location",
+IND,14212,Orissa,Viraj Alloys Group,0.4266,no candidate,
+IND,4530,Goa,Vedanta Group,0.4095,company+location,P100000121205
+IND,4585,Bihar,Usha Alloys & Steels Group,0.4091,no candidate,
+IND,15975,Andhra Pradesh,Gerdau Steel India,0.4033,company+location,P100000120568
+IND,13927,Gujarat,Gujarat NRE Coke,0.3866,no candidate,
+IND,15368,Orissa,MSPL - Mineral Sales Group,0.3863,no candidate,
+IND,4304,Karnataka,Bellary Steels & Alloys,0.3856,no candidate,
+IND,4389,Maharashtra,Jindal Group,0.3856,"ambiguous company, no location",
+IND,4554,Maharashtra,NSSMC Group/ArcelorMittal Group/Shree Precoated Steel,0.3829,company+location,P100001025669
+IND,4419,Maharashtra,Uttam Galva Steels Group,0.3826,no candidate,
+IND,4416,Andhra Pradesh,Kumar's Metallurgical,0.367,no candidate,
+IND,4534,Andhra Pradesh,Sponge Iron India,0.367,no candidate,
+IND,4434,Karnataka,Kirloskar Ferrous,0.3652,no candidate,
+IND,4358,Madhya Pradesh,HEG,0.3629,no candidate,
+IND,15375,,RKKR Steel,0.3627,no candidate,
+IND,15369,,MSPL - Mineral Sales Group,0.3535,no candidate,
+IND,4436,Karnataka,NMDC Group,0.35,company+location,P100000120548
+IND,15706,Gujarat,GPT Steel Industries,0.322,no candidate,
+IND,4550,Goa,Sesa Industries/Kembla Coal & Coke/Vedanta Group,0.3219,company+location,P100000121205
+IND,15268,,Bajrang Power & Steel,0.3186,company only (unique),P100000121192
+IND,4397,Haryana,Jindal Group,0.2788,"ambiguous company, no location",
+IND,15284,West Bengal,Ramsarup Industries,0.2615,company+location,P100000120553
+IND,4409,Maharashtra,Kalyani Carpenter Special Steels,0.2543,no candidate,
+IND,4366,Goa,Dempo - V.S.,0.2283,no candidate,
+IND,4442,Maharashtra,SAIL - Steel Authority Group,0.2283,"ambiguous company, no location",
+IND,4330,Gujarat,BLA Industries,0.2242,no candidate,
+IND,4522,Tamil Nadu,Jindal Group/SAIL - Steel Authority Group,0.2213,"ambiguous company, no location",
+IND,14211,Uttar Pradesh,Rimjhim Ispat,0.2,no candidate,
+IND,15908,West Bengal,Mark Steels,0.1872,no candidate,
+IND,4594,Tamil Nadu,Tamil Nadu Sponge Iron,0.1835,no candidate,
+IND,4546,Karnataka,Sathavahana Ispat,0.1826,no candidate,
+IND,4606,,United Seamless Tube,0.1825,no candidate,
+IND,4459,Maharashtra,Mukand Iron & Steel,0.1815,"ambiguous company, no location",
+IND,14210,West Bengal,Balaji Group,0.1735,company+location,P100000120560; P100001025922
+IND,10808,Punjab,Vallabh Group,0.1682,no candidate,
+IND,4461,Madhya Pradesh,Ruchi Group,0.1677,no candidate,
+IND,4491,Maharashtra,ThyssenKrupp Group,0.1677,no candidate,
+IND,4500,West Bengal,SAIL - Steel Authority Group,0.1677,company+location,P100000120524; P100000120527; P100000120549
+IND,4420,New Delhi 1,Madhya Pradesh Iron & Steel Group,0.1675,no candidate,
+IND,4360,West Bengal,Electrosteel Castings,0.1659,company only (unique),P100000121207
+IND,4429,West Bengal,Kajaria Iron Castings,0.1659,no candidate,
+IND,5820,Goa,Vedanta Group,0.1568,company+location,P100000121205
+IND,4430,Orissa,Kalinga Iron Works,0.1538,company+location,P100000120559
+IND,4391,Maharashtra,JAI,0.1509,"ambiguous company, no location",
+IND,4548,Goa,Jindal Group,0.1397,"ambiguous company, no location",
+IND,4621,Karnataka,SAIL - Steel Authority Group,0.1392,"ambiguous company, no location",
+IND,4470,Andhra Pradesh,Midwest Iron & Steel,0.137,no candidate,
+IND,4598,Tamil Nadu,Tata Steel Group,0.137,"ambiguous company, no location",
+IND,4437,Andhra Pradesh,Electrosteel Castings/Lanco Industries,0.137,company+location,P100000121207
+IND,4580,Tamil Nadu,Tube Products of India,0.1311,no candidate,
+IND,14714,Jharkhand,Tata Steel Group/BlueScope Steel Group,0.1303,company+location,P100000120529; P100000120535
+IND,4563,Andhra Pradesh,Jindal Group,0.1258,company+location,P100000121034
+IND,4517,Uttar Pradesh,Rajinder Steel,0.1258,no candidate,
+IND,4605,Karnataka,Unimetal Ispat,0.1141,no candidate,
+IND,15282,Shyamnagar,Ramsarup Industries,0.108,company only (unique),P100000120553
+IND,15283,West Bengal,Ramsarup Industries,0.1048,company+location,P100000120553
+IND,4373,Gujarat,Gujarat Steel Tubes,0.1037,no candidate,
+IND,4560,Tamil Nadu,Southern Iron & Steel,0.0975,no candidate,
+IND,4447,Madhya Pradesh,Man Industrial Group,0.095,no candidate,
+IND,4332,Haryana,BST Manufacturing,0.0805,no candidate,
+IND,4300,,Atma Steel,0.0802,no candidate,
+IND,15267,Uttar Pradesh,RHL Profiles,0.0777,no candidate,
+IND,4344,Tamil Nadu,Western Ministeel,0.0757,no candidate,
+IND,15437,,AML Steel,0.0752,company only (unique),P100001025815
+IND,15238,Bulandshahr,Goodluck Steel Tubes,0.0745,no candidate,
+IND,4535,Madhya Pradesh,Steel Tubes of India,0.071,no candidate,
+IND,11682,Bihar,Honda Motor Group,0.0691,no candidate,
+IND,4602,Tamil Nadu,Tube Investments,0.0643,no candidate,
+IND,14474,Isnapur,Pennar Industries,0.0638,no candidate,
+IND,502,Kanda,PSL Holdings,0.0629,no candidate,
+IND,4402,Bihar,Tata Steel Group,0.0629,"ambiguous company, no location",
+IND,4509,,PSL Holdings,0.0629,no candidate,
+IND,4510,,PSL Holdings,0.0629,no candidate,
+IND,4511,,PSL Holdings,0.0629,no candidate,
+IND,4620,Maharashtra,Vishwas Steels,0.0609,no candidate,
+IND,4551,Gujarat,Shah Alloys Group,0.0609,no candidate,
+IND,4544,Karnataka,Jindal Group,0.0609,"ambiguous company, no location",
+IND,4390,Maharashtra,Global Steel Holdings Group,0.0592,no candidate,
+IND,4569,Tamil Nadu,Sumangala Steel,0.0592,no candidate,
+IND,14700,,PSL Holdings,0.0586,no candidate,
+IND,14701,,PSL Holdings,0.0586,no candidate,
+IND,14702,,PSL Holdings,0.0586,no candidate,
+IND,14703,,PSL Holdings,0.0586,no candidate,
+IND,14704,,PSL Holdings,0.0586,no candidate,
+IND,14705,,PSL Holdings,0.0586,no candidate,
+IND,14706,,PSL Holdings,0.0586,no candidate,
+IND,4593,,Surya Roshni,0.0585,no candidate,
+IND,4227,West Bengal,AHW Ispat,0.0568,no candidate,
+IND,4466,Gujarat,Panchmahal Steel Group,0.0565,no candidate,
+IND,4301,Madhya Pradesh,AVN Tubes,0.0559,no candidate,
+IND,4406,Gujarat,Jindal Group,0.0559,"ambiguous company, no location",
+IND,4413,Gujarat,KR Steelunion Group,0.0559,no candidate,
+IND,4440,Maharashtra,Uttam Galva Steels Group,0.0559,no candidate,
+IND,4519,Karnataka,Raunaq Industrial,0.0559,no candidate,
+IND,4549,Uttar Pradesh,Jindal Group,0.0559,"ambiguous company, no location",
+IND,4583,Karnataka,Tulsyan NEC Group,0.0559,no candidate,
+IND,4599,Gujarat,Tata Steel Group,0.0559,"ambiguous company, no location",
+IND,4623,Maharashtra,Birla Hindalco Group,0.0559,no candidate,
+IND,14045,Maharashtra,Jindal Group,0.0559,"ambiguous company, no location",
+IND,15366,Raipur,Mahamaya Steel Industries,0.0558,no candidate,
+IND,13999,,GFG Alliance,0.0537,no candidate,
+IND,15312,,Jaihind Wire Rods,0.0532,no candidate,
+IND,15448,,Vipras Castings,0.0532,no candidate,
+IND,4493,Gujarat,Rajendra Mechanical Industries,0.0527,no candidate,
+IND,4561,Maharashtra,Tata Steel Group,0.0522,"ambiguous company, no location",
+IND,14870,,Rashmi Steel,0.0506,"ambiguous company, no location",
+IND,14958,,Khanna Industrial Pipes,0.0506,no candidate,
+IND,4231,Haryana,Atlas Steel Tube Industries,0.0503,no candidate,
+IND,15266,,Karam Steel,0.0503,no candidate,
+IND,4424,Maharashtra,Musco - Mahindra Ugine Steel Group,0.0477,no candidate,
+IND,4454,Uttar Pradesh,Mohan Steels Group,0.0474,no candidate,
+IND,4600,West Bengal,Toyo Ispat,0.0447,no candidate,
+IND,4408,Maharashtra,Kalyani Steel Group/Carpenter Technology,0.0432,"ambiguous company, no location",
+IND,4489,Uttar Pradesh,Rathi Group,0.0428,no candidate,
+IND,440,Tamil Nadu,Apollo Tubes,0.0419,no candidate,
+IND,4342,Maharashtra,Denholm Steels Group,0.0419,no candidate,
+IND,4552,Maharashtra,Sharda Industries & Engineering,0.0419,no candidate,
+IND,4610,Agra,Usha Alloys & Steels Group,0.0419,no candidate,
+IND,4472,Uttar Pradesh,Modi Industries,0.0419,no candidate,
+IND,4463,Andhra Pradesh,NSL,0.0402,no candidate,
+IND,4495,Madhya Pradesh,Ruchi Group,0.0399,no candidate,
+IND,15313,Bihar,Shri Mahalaxmi Steel,0.0399,no candidate,
+IND,4448,Madhya Pradesh,Man Industrial Group,0.0391,no candidate,
+IND,4568,West Bengal,Steel Rolling of Hindustan,0.0388,no candidate,
+IND,4613,Punjab,Vallabh Group,0.0388,no candidate,
+IND,4452,Punjab,Modern Steels Group,0.0387,no candidate,
+IND,4321,Uttar Pradesh,Balia Rainbow Ispat,0.0379,no candidate,
+IND,4513,Punjab,Aarti Steels & Power,0.0376,no candidate,
+IND,15279,,Bansal Wire Industries,0.0356,no candidate,
+IND,4380,Maharashtra,Kalyani Steel Group,0.0335,"ambiguous company, no location",
+IND,4515,,Quality Steel Tubes,0.0335,no candidate,
+IND,4504,Andhra Pradesh,Partap Steel Rolling,0.0334,no candidate,
+IND,4503,Punjab,Partap Steel Rolling,0.0314,no candidate,
+IND,15716,Punjab,Vallabh Group,0.0307,no candidate,
+IND,14208,New Delhi,Ambica Steels,0.0303,no candidate,
+IND,4415,Maharashtra,KR Steelunion Group,0.0298,no candidate,
+IND,13470,West Bengal,Shyam Ferro Alloys,0.0292,no candidate,
+IND,4595,Tamil Nadu,Tamil Nadu Steels,0.0291,no candidate,
+IND,4298,Gujarat,Ahmedabad Steelcraft,0.029,no candidate,
+IND,4468,Gujarat,Mardia Steel,0.029,no candidate,
+IND,4502,Punjab,Partap Steel Rolling,0.0288,no candidate,
+IND,4460,Punjab,Surindra Engineering Group,0.0279,no candidate,
+IND,4474,,MSL Industries,0.0279,no candidate,
+IND,4526,Tamil Nadu,Sarbati Steel Tubes,0.0279,no candidate,
+IND,4572,Maharashtra,Taloja Steel,0.0279,no candidate,
+IND,4636,Maharashtra,Western Ministeel,0.0279,no candidate,
+IND,15056,Kanpur,Hari Kishen Coated Sheets,0.0279,no candidate,
+IND,4333,West Bengal,Calcutta Steel,0.0279,no candidate,
+IND,4618,Maharashtra,Viraj Alloys Group,0.0276,no candidate,
+IND,4616,Maharashtra,Facor Group,0.0275,no candidate,
+IND,6274,,Pratibha Infrastructure,0.0268,no candidate,
+IND,15280,West Bengal,Ramsarup Industries,0.0266,company+location,P100000120553
+IND,15281,West Bengal,Ramsarup Industries,0.0266,company+location,P100000120553
+IND,15379,Chattisgarh,Visa Steel,0.0266,no candidate,
+IND,15440,Tamil Nadu,Pennar Industries,0.0266,no candidate,
+IND,15441,Patancheru,Pennar Industries,0.0266,no candidate,
+IND,15442,Maharashtra,Pennar Industries,0.0266,no candidate,
+IND,4327,Jharkhand,Jindal Group,0.0265,company+location,P100000120542; P100000121173
+IND,4405,Maharashtra,Jindal Group,0.0252,"ambiguous company, no location",
+IND,4635,Maharashtra,Western Ministeel,0.025,no candidate,
+IND,4303,Tamil Nadu,Balaji Group,0.0244,"ambiguous company, no location",
+IND,4226,New Delhi,Akay Rolling Mills,0.0237,no candidate,
+IND,4385,Maharashtra,Isibars Group,0.0226,no candidate,
+IND,4331,Maharashtra,BP Steel Industries Group,0.0225,no candidate,
+IND,4574,Maharashtra,Tata Steel Group,0.0224,"ambiguous company, no location",
+IND,4611,Amethi,Usha Alloys & Steels Group,0.0224,no candidate,
+IND,15055,Hyderabad,Century Tubes,0.0224,no candidate,
+IND,4608,Punjab,Upper India Steels,0.0221,no candidate,
+IND,4577,Jharkhand,Tata Steel Group/Yodogawa Steel Works Group,0.0215,company+location,P100000120529; P100000120535
+IND,4607,Faridabad,Universal Steel & Alloys,0.0215,no candidate,
+IND,15314,Srikakulam,Sujana Metal Products,0.0213,no candidate,
+IND,4336,Haryana,Dabriwala Steel & Engineering,0.0209,no candidate,
+IND,4443,Maharashtra,SAIL - Steel Authority Group,0.0209,"ambiguous company, no location",
+IND,4394,Maharashtra,Jindal Group,0.0203,"ambiguous company, no location",
+IND,4309,Tamil Nadu,BHEL - Bharat Heavy Electricals,0.0201,no candidate,
+IND,4582,Tamil Nadu,Tulsyan NEC Group,0.0201,no candidate,
+IND,4590,Maharashtra,Venkatesh Steels,0.0201,no candidate,
+IND,4325,Haryana,Bhushan Steel & Strips Group,0.0197,no candidate,
+IND,4566,Massachusetts,Usha Alloys & Steels Group,0.0197,no candidate,
+IND,4324,Uttar Pradesh,Bharat Berg,0.0196,no candidate,
+IND,4363,Sri Nagar,Essem Coated Steels,0.0196,no candidate,
+IND,4475,,Munak Galva Sheets,0.0196,no candidate,
+IND,438,Bangalore,Andhra Steel,0.0189,no candidate,
+IND,4367,Maharashtra,Gogte Steels,0.0189,no candidate,
+IND,4371,Gujarat,Gujarat Ministeel,0.0189,no candidate,
+IND,4375,Haryana,Haryana Concast,0.0189,no candidate,
+IND,4506,Gujarat,Poly Steel (India),0.0189,no candidate,
+IND,4543,Kerala,Sandeep Industries,0.0189,no candidate,
+IND,4557,West Bengal,Singh Electrosteel,0.0189,no candidate,
+IND,4558,Maharashtra,Singh Electrosteel,0.0189,no candidate,
+IND,4565,Kerala,Steel Complex,0.0189,no candidate,
+IND,4435,Maharashtra,Krishna Steel Industries,0.0189,no candidate,
+IND,4228,New Delhi,Gopal Group,0.0188,no candidate,
+IND,4562,Tamil Nadu,Srinavasa Smelters,0.0181,no candidate,
+IND,4525,Maharashtra,Sanghvi Steels,0.0178,no candidate,
+IND,14925,,MetKore Alloys & Industries,0.0177,no candidate,
+IND,4340,Gujarat,Choksi Tube,0.0168,no candidate,
+IND,4392,Haryana,Jindal Group,0.0164,"ambiguous company, no location",
+IND,4414,West Bengal,KR Steelunion Group,0.0162,no candidate,
+IND,4570,Maharashtra,Surrendra Industries,0.016,no candidate,
+IND,4431,Karnataka,Kalyani Steel Group/Mukand Iron & Steel,0.016,company+location,P100000120552; P100001062087
+IND,4376,Haryana,Haryana Steel & Alloys,0.0158,no candidate,
+IND,4481,Rajastan,Partap Rajasthan Special Steels,0.0156,no candidate,
+IND,4612,Lucknow,Vaid Steels,0.0151,no candidate,
+IND,4318,Maharashtra,Chandan Steel Group,0.0143,no candidate,
+IND,4471,Madhya Pradesh,Modella Steel & Alloy,0.014,no candidate,
+IND,4349,Karnataka,Gemini Steel Tubes,0.014,no candidate,
+IND,4297,Andhra Pradesh,Agarwal Foundry & Engineering,0.0138,no candidate,
+IND,4547,Limbdi,Saurashtra Steel,0.0136,no candidate,
+IND,4559,Uttar Pradesh,Somani Steels,0.0136,no candidate,
+IND,4439,Maharashtra,Uttam Galva Steels Group,0.0134,no candidate,
+IND,4532,Maharashtra,Smith Glass Products,0.0134,no candidate,
+IND,4601,Tiruchirapalli,Trichy Steel Rolling,0.0133,no candidate,
+IND,4400,West Bengal,Hope (India),0.013,no candidate,
+IND,15370,,MSPL - Mineral Sales Group,0.0128,no candidate,
+IND,15374,Maharashtra,Rampra Steel,0.0128,no candidate,
+IND,4299,Ambala City,Ashoka Alloy Steels,0.0114,no candidate,
+IND,4433,Khandewal,Khandewal Tubes,0.0112,no candidate,
+IND,4540,Maharashtra,Surindra Engineering Group,0.0112,no candidate,
+IND,4541,Punjab,Surindra Engineering Group,0.0112,no candidate,
+IND,4542,Maharashtra,Surindra Engineering Group,0.0112,no candidate,
+IND,439,Andhra Pradesh,Andhra Steel,0.0111,no candidate,
+IND,4370,West Bengal,Grand Alloys & Steels,0.0107,no candidate,
+IND,15438,Kanchipuram,Sidunor,0.0106,no candidate,
+IND,15439,Maharashtra,Sidunor,0.0106,no candidate,
+IND,15310,Andhra Pradesh,Binjusaria Metal Box,0.0105,no candidate,
+IND,15349,Karnataka,Bhuwalka Steel Industries,0.0103,no candidate,
+IND,4603,Maharashtra,Tube Investments,0.0101,no candidate,
+IND,4553,Mysore,Shimoga Steel,0.0095,no candidate,
+IND,4444,Maharashtra,Maharashtra Steels,0.0091,no candidate,
+IND,4432,Maharashtra,Kanoria Steels,0.009,no candidate,
+IND,4377,New Delhi,Hindustan Foils,0.0089,no candidate,
+IND,4427,Kanpur,JK Iron & Steel,0.0087,no candidate,
+IND,4592,Uttar Pradesh,Venus Castings,0.0087,no candidate,
+IND,4523,Gujarat,Sandvik Materials Technology,0.0084,no candidate,
+IND,4322,Punjab,BDA Steels,0.0083,no candidate,
+IND,15350,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15351,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15352,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15353,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15354,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15355,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15356,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15357,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15358,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15359,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15360,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15361,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15362,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15363,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15364,,Kamdhenu Ispat Group,0.008,no candidate,
+IND,15372,Maharashtra,National General Industries,0.008,no candidate,
+IND,4323,Maharashtra,BD Castings,0.0079,no candidate,
+IND,4476,Uttar Pradesh,Muzzaffarnagar Steels,0.0076,no candidate,
+IND,4505,Punjab,National General Industries,0.0073,no candidate,
+IND,4365,Nagpur,Firth India,0.0072,no candidate,
+IND,4473,,MP Alloys,0.0072,no candidate,
+IND,4545,Kariganur/Hospet,Saroj Alloys & Steels,0.0071,no candidate,
+IND,4588,Himachal Pradesh,Vashint Alloys,0.0059,no candidate,
+IND,15285,Tamil Nadu,Vinayaka Alloys,0.0056,no candidate,
+IND,4328,,Comet Steel,0.0056,no candidate,
+IND,4428,Haryana,Jotindra Steel & Tubes,0.0056,no candidate,
+IND,4467,West Bengal,Parikh Steel,0.0056,no candidate,
+IND,4531,West Bengal,Shiva Steel Rolling Mills,0.0056,no candidate,
+IND,4556,,Siddartha Tubes,0.0056,no candidate,
+IND,14117,Gujarat,Arvind Pipes & Fittings Group,0.0056,no candidate,
+IND,15377,,Sindia Steels,0.0056,no candidate,
+IND,15378,,Smita Steels Rolling Mills,0.0053,no candidate,
+IND,15445,Gujarat,Real Strips,0.0053,no candidate,
+IND,4417,Haryana,Kumar Steels,0.0047,no candidate,
+IND,4514,Punjab,Punjab Iron & Steel,0.0047,no candidate,
+IND,4458,Maharashtra,Mukand Iron & Steel,0.0043,"ambiguous company, no location",
+IND,4319,Andhra Pradesh,Charminar Steels,0.0043,no candidate,
+IND,15170,,Steelite Engineering,0.0043,no candidate,
+IND,13263,Gujarat,Ratnamani Metals & Tubes,0.0042,no candidate,
+IND,4528,Pondicherry,SAR Ispat,0.004,no candidate,
+IND,4482,New Delhi,Allied Holdings,0.0039,no candidate,
+IND,4567,Madhya Pradesh,Steel Ingots,0.0039,no candidate,
+IND,15315,,Surana Industries,0.0038,no candidate,
+IND,4446,Jaipur,Man Industrial Group,0.0036,no candidate,
+IND,4378,Haryana,Hisar Metal Industries,0.0034,no candidate,
+IND,4512,Punjab,Punj - Lal Industries,0.0033,no candidate,
+IND,14216,,Midhani Steel Plate,0.0031,no candidate,
+IND,4229,Maharashtra,Ambhe Ferro Metal Processing,0.0028,no candidate,
+IND,4455,Uttar Pradesh,Monga Steel Pipe Industries,0.0028,no candidate,
+IND,4538,Gujarat,Suraj Stainless,0.0028,no candidate,
+IND,4362,Tamil Nadu,Ennore Steel Enterprises,0.0028,no candidate,
+IND,15365,,British Super Alloys,0.0027,no candidate,
+IND,4403,West Bengal,Indo-Japan Steels,0.0023,no candidate,
+IND,4520,West Bengal,SAIL - Steel Authority Group,0.0018,company+location,P100000120524; P100000120527; P100000120549
+IND,4485,Maharashtra,Rajendra Mechanical Industries Group,0.0011,no candidate,
+IND,4507,West Bengal,Pradyamna Steel,0.0011,no candidate,
+IND,4426,UT of Dadra & Nagar Haveli,Mardia Samyoung Capillary Tubes,0.001,no candidate,
+IND,4320,Andhra Pradesh,Chitrakoot Speciality Tubes,0.0006,no candidate,
+IND,4477,Gujarat,Neeka Tubes,0.0006,no candidate,
+IND,4374,Maharashtra,Hardcastle & Wand,0.0,no candidate,
+TUR,3212,"Iskenderun, Hatay",ArcelorMittal Group/Oyak Group,9.0529,company+location,P100000120875
+TUR,14549,Karabuk,Kardemir,5.6331,"ambiguous company, no location",
+TUR,3207,"Eregli, Zonguldak",ArcelorMittal Group/Oyak Group,5.2621,company+location,P100000120871
+TUR,3184,"Gebze, Izmit",Colakoglu Metalurji,0.4716,company only (unique),P100000120867
+TUR,3229,Izmir,Habas Group,0.3273,company+location,P100000120872
+TUR,3209,"Gunesli, Istanbul",Icdas Celik Enerji,0.3206,company only (unique),P100000120873
+TUR,13450,Iskenderun,MMK - Magnitogorsk Iron & Steel,0.2572,no candidate,
+TUR,3186,Izmir,Ege Celik,0.2346,company+location,P100000120869
+TUR,14415,Gebze,Kroman Celik Group,0.2272,company only (unique),P100000120879
+TUR,8940,Karabiga,Icdas Celik Enerji,0.2185,company+location,P100000120873
+TUR,15019,Osmaniye,Yolbulan Bastug,0.2185,company+location,P100000120889
+TUR,3190,Izmir,Ege Metal Demir Celik Group,0.2184,company+location,P100000120869
+TUR,14430,"Osmaniye, Iskenderun",Toscelik - Tosyali Demir,0.1677,no candidate,
+TUR,3202,Iskenderun,Yazici Group,0.1674,company+location,P100000120887
+TUR,14411,Tekirdag,Kaptan Demir Celik Group,0.152,company+location,P100000120876
+TUR,3211,Izmir,IDC - Izmir Demir Group,0.1488,no candidate,
+TUR,3192,Iskenderun,Ekinciler Demir,0.1173,company+location,P100000120870
+TUR,14423,Iskenderun,Yazici Group,0.1127,company+location,P100000120887
+TUR,14129,Izmir,Cer Celik Group,0.0958,no candidate,
+TUR,3195,Izmir,Cebitas Demir Celik Group,0.0938,company+location,P100000120892
+TUR,15004,Izmir,Ede Demir,0.0798,no candidate,
+TUR,14410,Izmir,Erege Metal,0.0789,no candidate,
+TUR,14424,Samsun,Yesilyurt Demir,0.067,company+location,P100000120888
+TUR,3218,Izmir,Metas Izmir Metalurji Fab.,0.0646,no candidate,
+TUR,3224,Iskenderun,Nursan Celik,0.0608,company only (unique),P100000120882
+TUR,13449,Gemlik,Borusan Group/ArcelorMittal Group,0.0553,no candidate,
+TUR,3226,Ankara,Sivas Demir Celik,0.0528,no candidate,
+TUR,3257,"Topkapi, Istanbul",Ege Metal Demir Celik Group,0.0404,company only (unique),P100000120869
+TUR,3175,Gemlik,Borusan Group/ArcelorMittal Group/Oyak Group,0.0293,"ambiguous company, no location",
+TUR,14176,"Karakoy, Istanbul",Hyundai Steel Group/Assan Demir Group/Posco - Pohang Iron & Steel,0.0233,no candidate,
+TUR,15015,Osmaniye,Platinum Demir Celik,0.0219,no candidate,
+TUR,15641,Kocaeli,Yildiz Rolling,0.0208,no candidate,
+TUR,14641,Hatay,Toyo Kohan Group,0.0205,no candidate,
+TUR,3255,"Gabze, Kocaeli, Izmit",Tezcan Galvanizli Group,0.02,no candidate,
+TUR,3182,Bursa,Cemtas Celik,0.019,no candidate,
+TUR,3193,"Orhangazi, Bursa",Yazici Group,0.0189,company only (unique),P100000120887
+TUR,3178,Gemlik,Salzgitter/Borusan Group,0.0108,no candidate,
+TUR,3237,Hatay,Toscelik - Tosyali Demir,0.0107,no candidate,
+TUR,3220,Kirikkale,MKEK,0.0103,no candidate,
+TUR,14163,Iskenderun,Enerjia Metal,0.0093,no candidate,
+TUR,3230,"Corlu, Istanbul",Kaptan Demir Celik Group,0.0092,company only (unique),P100000120876
+TUR,10,Iskenderun,Ilhanlar Hadecelik,0.0083,no candidate,
+TUR,15017,,Tat Metal,0.0069,no candidate,
+TUR,3225,Iskenderun,Nursan Celik,0.0063,company only (unique),P100000120882
+TUR,15014,Hatay,Pay Metal,0.0058,no candidate,
+TUR,3200,Gebze,Demirsan Rolling,0.0058,no candidate,
+TUR,15009,Izmir,Kar-Demir Haddecilik,0.0055,no candidate,
+TUR,3217,"Gebze, Kocaeli",Kurum Steel,0.0054,no candidate,
+TUR,14994,Izmir,Yildiz Rolling,0.0052,no candidate,
+TUR,3201,Gebze,Yazici Group,0.0048,company only (unique),P100000120887
+TUR,15010,Izmir,Kocaer Rolling,0.0048,no candidate,
+TUR,3242,Bolu,Umran Celik Boru Group,0.0042,no candidate,
+TUR,15007,Goktas Steel Pipe,"Goktas Steel Pipe,",0.004,no candidate,
+TUR,781,Konya,Bayik Demir,0.0039,no candidate,
+TUR,15013,Mersin,Ozbal Celik Boru,0.0038,no candidate,
+TUR,3196,"Gebze, Izmit",Cebitas Demir Celik Group,0.0036,company only (unique),P100000120892
+TUR,14406,Izmir,Tizan Izmir,0.0036,no candidate,
+TUR,3180,Izmit,Salzgitter/Borusan Group,0.0035,no candidate,
+TUR,14413,Iskenderun,Koc Dis Ticaret Group,0.0029,no candidate,
+TUR,14414,Iskenderun,Koc Dis Ticaret Group,0.0029,no candidate,
+TUR,14417,Akcakoca-Duzce,MMZ Onur Boru Profil Group,0.0029,no candidate,
+TUR,3222,Hendek-Sankarya,Cukurova Celik Group/Nokia Group,0.0029,no candidate,
+TUR,15005,,Efesan Rolling,0.0029,no candidate,
+TUR,3252,Kocaeri,Cayirova Boru,0.0027,no candidate,
+TUR,3197,Karabuk,Cebitas Demir Celik Group,0.0024,company only (unique),P100000120892
+TUR,14405,Karasu,Kibar Holding,0.0024,no candidate,
+TUR,3227,"Eyup, Istanbul",Elmet - Elektro Metal,0.0023,no candidate,
+TUR,3206,Kayseri,Erbosan - Erciyas Boru,0.0023,no candidate,
+TUR,15006,,Ekemetal Rolling,0.0023,no candidate,
+TUR,14639,Kocaeli,Posco - Pohang Iron & Steel,0.0023,no candidate,
+TUR,15008,Hatay,Hatay Celik,0.0022,no candidate,
+TUR,15071,"Karakoy, Istanbul",Assan Demir Group,0.0022,no candidate,
+TUR,3191,Balikesir,Ege Metal Demir Celik Group,0.0018,company only (unique),P100000120869
+TUR,3228,Istanbul,EMC - Tembor,0.0018,no candidate,
+TUR,3239,Karabuk,Ege Metal Demir Celik Group,0.0018,company only (unique),P100000120869
+TUR,3241,"Umraniye, Istanbul",Umran Celik Boru Group,0.0018,no candidate,
+TUR,14016,Karabuk,CAG Celik,0.0017,company only (unique),P100001047724
+TUR,15012,,Mescier Rolling,0.0017,no candidate,
+TUR,3177,Sefakoy-Istanbul,Salzgitter/Borusan Group,0.0017,no candidate,
+TUR,14996,,Aygunsan Rolling,0.0016,no candidate,
+TUR,3204,Adana,Ekinciler Demir,0.0016,company only (unique),P100000120870
+TUR,3258,"Durak, Ankara",Celebcioglu Celik Endustrisi Group,0.0016,no candidate,
+TUR,3233,Ankara,Malzeme - Celik,0.0015,no candidate,
+TUR,11194,Izmir,Akdemir/IDC - Izmir Demir Group,0.0014,no candidate,
+TUR,15002,Corlu,Daiyang Metal,0.0014,no candidate,
+TUR,3188,"Sarikesi, Istanbul",Yazici Group,0.0012,company only (unique),P100000120887
+TUR,3203,Karabuk,Yazici Group,0.0012,company only (unique),P100000120887
+TUR,3205,Karabuk,Ekinciler Demir,0.0012,company only (unique),P100000120870
+TUR,3223,Iskenderun,Cukurova Celik Group/Nokia Group,0.0012,no candidate,
+TUR,3231,Karabuk,Kaptan Demir Celik Group,0.0012,company only (unique),P100000120876
+TUR,14418,Izmir,Ozkan Demir,0.0012,company+location,P100000120883
+TUR,15000,,Celsantas Rolling,0.0012,no candidate,
+TUR,3174,"Avcilar, Istanbul",Borusan Group,0.0011,no candidate,
+TUR,14999,Hatay,Bastug Celik,0.0011,company only (unique),P100000120889
+TUR,3199,Saraykoy-Ankara,Celebcioglu Celik Endustrisi Group,0.0011,no candidate,
+TUR,3232,Izmir,Metas Izmir Metalurji Fab.,0.0011,no candidate,
+TUR,14995,,Agir Rolling,0.001,no candidate,
+TUR,14157,Ankara,Emek Boru,0.0009,no candidate,
+TUR,3162,Denizli,Akdemir/IDC - Izmir Demir Group,0.0009,no candidate,
+TUR,15011,Izmir,Kocaer Rolling,0.0009,no candidate,
+TUR,14422,,Umran Celik Boru Group,0.0009,no candidate,
+TUR,3235,Izmit,Tezcan Galvanizli Group,0.0008,no candidate,
+TUR,14998,,Boskay Metal Rolling,0.0007,no candidate,
+TUR,3259,Gebze,Yucel Boru ve Profil,0.0007,company only (unique),P100000120879
+TUR,15656,Merzin,Boray Pipe & Profile,0.0007,no candidate,
+TUR,14997,,Bekap Metal,0.0006,no candidate,
+TUR,15001,,Coskun Haddecilik,0.0006,no candidate,
+TUR,15025,Izmir,Kar-Demir Haddecilik,0.0006,no candidate,
+TUR,13938,"Gebze, Kocaeli",Bant Boru Group,0.0003,no candidate,
+TUR,3198,Kirikkale,Celbor,0.0002,no candidate,
+TUR,3215,Istanbul,Borusan Group,0.0001,no candidate,
+TUR,14421,Ankara,Tuba Metal,0.0001,no candidate,
+TUR,14419,Kocaeli,Petek Boru Group,0.0001,no candidate,
+TUR,234,,Coatcoil,0.0,no candidate,
+TUR,3194,Sakarya,Tata Steel Group/Yasan Denka,0.0,no candidate,
+TUR,14403,,Park Panel,0.0,no candidate,
+TUR,14640,,Asas Aluminyum,0.0,no candidate,
+TUR,15018,,Universal Metal,0.0,no candidate,
+VNM,14710,Ha Tinh,China Steel/Formosa Plastics Group,13.9507,company+location,P100000121011
+VNM,5630,Haiphong,Haiphong Steel,1.406,no candidate,
+VNM,5620,Thai Nguyen,Vietnam Steel Corporation Group,1.2235,"ambiguous company, no location",
+VNM,14552,,Van Loi Steel,0.559,no candidate,
+VNM,14320,Ba Ria Vung Tau,Trung Tuong Steel,0.3089,company+location,P100000121014
+VNM,1292,Ba Ria Vung Tau,Thep Viet Steel,0.2881,company+location,P100000121012; P100000121013; P100000121021; P100000121023
+VNM,5623,Ba Ria Vung Tau,Kyoei Steel Group/Vietnam Steel Corporation Group,0.271,company+location,P100000121014; P100000121020; P100000121023
+VNM,14557,,Thep Viet Steel,0.147,"ambiguous company, no location",
+VNM,1290,Ba Ria Vung Tau,Posco - Pohang Iron & Steel/Vietnam Steel Corporation Group,0.1064,company+location,P100000121014; P100000121020
+VNM,14155,Ba Ria Vung Tau,NSSMC Group/China Steel/Formosa Plastics Group,0.0982,company only (unique),P100000121011
+VNM,15932,Haiphong,Vietnam-Japan Steel,0.095,no candidate,
+VNM,15933,,Viet Nhat Advanced Steel,0.095,company only (unique),P100001045591
+VNM,14567,Quang Ninh,Vinashin,0.0591,no candidate,
+VNM,5629,Hanoi,Hoa Phat Group,0.0588,"ambiguous company, no location",
+VNM,14256,Haiphong,Dinh Vu Steel,0.0588,no candidate,
+VNM,15165,,Sun Steel,0.0506,no candidate,
+VNM,5628,Quang Nam,Vietnam Steel Corporation Group,0.0441,"ambiguous company, no location",
+VNM,5622,Haiphong,Posco - Pohang Iron & Steel/Vietnam Steel Corporation Group,0.0304,"ambiguous company, no location",
+VNM,3214,Ba Ria Vung Tau,Hoa Sen Steel,0.0278,company+location,P100000121022
+VNM,5617,Bien Hoa,Sumitomo Group/Federal Iron Works/Vietnam Steel Corporation Group,0.0244,"ambiguous company, no location",
+VNM,5639,Ba Ria Vung Tau,Vietnam Steel Corporation Group,0.0236,company+location,P100000121014; P100000121020
+VNM,5625,Haiphong City,Hebei Iron & Steel Group/Vietnam Steel Corporation Group,0.0213,"ambiguous company, no location",
+VNM,10746,Ninh Binh,Tam Diep Steel Rolling Mill,0.0207,no candidate,
+VNM,10748,Bin Duong,Thep Viet Steel,0.0177,"ambiguous company, no location",
+VNM,8950,Haiphong,Hebei Iron & Steel Group,0.0177,no candidate,
+VNM,10747,Haiphong,Song Da Construction Transpor,0.0177,no candidate,
+VNM,5635,Bin Duong,Vinataphon,0.0169,no candidate,
+VNM,15404,,Vietnam Italy Steel,0.0169,company only (unique),P100001045592
+VNM,1291,Bin Duong,Hoa Sen Steel,0.0165,company only (unique),P100000121022
+VNM,9361,Quang Tri,Ministry of Construction,0.0148,no candidate,
+VNM,14550,Ba Ria Vung Tau,Anshan Chenguang Al. Mat.,0.0141,no candidate,
+VNM,14554,,Asia Stainless,0.013,no candidate,
+VNM,5610,Dong Nai,Vietnam Steel Corporation Group,0.0124,"ambiguous company, no location",
+VNM,14559,Ba Ria Vung Tau,Thong Nhat Flat Steel,0.0118,no candidate,
+VNM,14947,,Nam Kim Steel,0.0108,no candidate,
+VNM,5613,Thai Nguyen,Hebei Iron & Steel Group/Vietnam Steel Corporation Group,0.0104,"ambiguous company, no location",
+VNM,14555,Dong Nai,Phuong Nam Corrugated,0.0083,no candidate,
+VNM,10745,Bin Duong,Perstima,0.007,no candidate,
+VNM,14553,,Vietnam Steel Corporation Group,0.0062,"ambiguous company, no location",
+VNM,14556,Dong Nai,Phuong Nam Corrugated,0.0059,no candidate,
+VNM,5618,Bin Duong,Vietnam Steel Corporation Group,0.0046,company+location,P100000121017; P100000121018
+VNM,5621,Bin Duong,Vietnam Steel Corporation Group,0.0046,company+location,P100000121017; P100000121018
+VNM,15164,Hanoi,Lilama Steel,0.0045,no candidate,
+VNM,5616,Dong Nai,SeAH Steel Group/Saigon Steel Pipe,0.0041,no candidate,
+VNM,5612,Bin Duong,Vietnam Steel Corporation Group,0.0031,company+location,P100000121017; P100000121018
+VNM,5611,Dong Nai,Hyundai Steel Group/Hyundai Huyhoang Pipe,0.003,no candidate,
+VNM,5614,Bin Duong,Posco - Pohang Iron & Steel/Vietnam Steel Corporation Group,0.003,company+location,P100000121017; P100000121018
+VNM,15403,,Cevimetal,0.0028,no candidate,
+VNM,15738,Bin Duong,HRP - Hot Rolling Pipe,0.0028,no candidate,
+VNM,5615,Dong Nai,Sadakim,0.0025,no candidate,
+VNM,5624,Haiphong,Posco - Pohang Iron & Steel/SeAH Steel Group/Vietnam Steel Corporation Group,0.0022,"ambiguous company, no location",
+VNM,8951,An Nhon,SR Corporation,0.0021,no candidate,
+VNM,5627,Dong Nai,Vietnam Steel Corporation Group,0.0018,"ambiguous company, no location",
+VNM,14563,,Vietnam Steel Corporation Group,0.0015,"ambiguous company, no location",
+VNM,5626,Ho Chi Minh City,Vinaton Factory,0.0012,no candidate,
+VNM,5633,Gia Sang,Vietnam Steel Corporation Group,0.0012,"ambiguous company, no location",
+VNM,5634,Haiphong,NSSMC Group,0.0012,no candidate,
+VNM,14561,Can Tho,Vietnam Steel Corporation Group/Thep Viet Steel,0.0012,"ambiguous company, no location",
+VNM,14562,,Vietnam Steel Corporation Group,0.0012,"ambiguous company, no location",
+VNM,5631,Bin Duong,Maruviena,0.0011,no candidate,
+VNM,13385,Quang Ngai,E United Group,0.0011,no candidate,
+VNM,15333,Hanoi,Dongbang Special Steel,0.0004,no candidate,
+VNM,15334,Bin Duong,Dongbang Special Steel,0.0003,no candidate,
+VNM,5632,,NSSMC Group/Vietnam Steel Corporation Group,0.0,"ambiguous company, no location",
+VNM,15463,,VIFA Coating,0.0,no candidate,
