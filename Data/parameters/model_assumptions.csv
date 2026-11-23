@@ -8,19 +8,19 @@ carbon_price_paid,0,0,,EUR per tCO2e,baseline assumption,IR (EU) 2026/2498 (OJ 1
 eua_dec26_quote,,90.5,,EUR per tCO2e,market quote (2 Nov 2026),"GMK Center, 'European carbon prices exceeded EUR90/t in November' (https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/)",anchor for the certificate price path
 eua_dec30_quote,,99.5,,EUR per tCO2e,market quote (autumn 2026),"CemNet EUA market comment (https://www.cemnet.com/News/story/182273/)",anchor for the long end of the price path
 cbam_benchmarks_2027,,,,,pending,IR (EU) 2025/2620 recital 10,updated CBAM benchmarks based on final ETS benchmarks (IR 2026/1412) apply from 1 Jan 2027; no draft as of 16 Nov 2026
-verification_cost_central_small,,10000,,EUR per installation per year,assumption,rounded midpoint of the small-installation range,merchant mini blast furnaces; secondary aluminium remelters
-verification_cost_central_medium,,30000,,EUR per installation per year,assumption,rounded midpoint of the medium-installation range,re-rollers; EAF and induction-furnace mills; DRI and pellet plants
-verification_cost_central_large,,100000,,EUR per installation per year,assumption,rounded midpoint of the large-installation range,integrated BF-BOF mills; primary aluminium smelters
-setup_cost_ratio,0.5,1.0,2.0,one-off monitoring set-up cost as a multiple of the annual verification cost,assumption,none,used by the multi-year model (M1) only
+verification_cost_central_small,,10000,,EUR per installation per year,assumption,rounded midpoint of the small-installation range,merchant mini blast furnaces; secondary aluminium remelters; sensitivity runs scale all verification costs by 0.5 to 2
+verification_cost_central_medium,,30000,,EUR per installation per year,assumption,rounded midpoint of the medium-installation range,re-rollers; EAF and induction-furnace mills; DRI and pellet plants; sensitivity runs scale all verification costs by 0.5 to 2
+verification_cost_central_large,,100000,,EUR per installation per year,assumption,rounded midpoint of the large-installation range,integrated BF-BOF mills; primary aluminium smelters; sensitivity runs scale all verification costs by 0.5 to 2
+setup_cost_ratio,0.5,1.0,4.0,one-off monitoring set-up cost as a multiple of the annual verification cost,assumption,none,used by the multi-year model (M1) only; sensitivity runs use 0.5 to 4
 verification_success_probability,0.6,0.9,1.0,probability,assumption,none,"same for all nodes; covers supplier refusal and a negative verification opinion"
-prior_cv_own_installation,0.05,0.10,0.15,coefficient of variation,assumption,proposal (own installation is monitored),the exporter knows its own plant well
+prior_cv_own_installation,,0.10,,coefficient of variation,assumption,none,the exporter knows its own plant well; not varied in the sensitivity analysis
 prior_cv_supplier,0.10,0.25,0.40,coefficient of variation,assumption,"Lei et al. (2023) matched to GEM: BF-BOF spread 0.14-0.24 on production, 0.23-0.39 on capacity; IPCC emission-factor CV 10% (Lei et al. 2023 SI, section 1.8)",Lei's plant estimates use default emission factors per process; their spread reflects plant configuration more than efficiency
-pass_through_share,0,1.0,1.0,share of buyers' CBAM saving captured by the exporter,assumption,proposal,1 = the exporter bears the full CBAM cost through its price (equivalent to the importer interpretation)
-eu_volume_steel_exporter,10000,50000,250000,t per year,assumption,"Comext 2025: EU imports of 7210 49 00 were 507 kt from China and 529 kt from Türkiye; 7207 11 16 from India 243 kt",a mid-size exporter: about a tenth of the Chinese and Turkish flows and a fifth of the Indian one
-eu_volume_aluminium_exporter,2000,10000,50000,t per year,assumption,"Comext 2025: EU imports of 7610 90 90 from China were 151 kt",many small fabricators
+pass_through_share,0.25,1.0,1.0,share of buyers' CBAM saving captured by the exporter,assumption,none,1 = the exporter bears the full CBAM cost through its price (equivalent to the importer interpretation); sensitivity runs use 0.25 to 1
+eu_volume_steel_exporter,5000,50000,250000,t per year,assumption,"Comext 2025: EU imports of 7210 49 00 were 507 kt from China and 529 kt from Türkiye; 7207 11 16 from India 243 kt",a mid-size exporter: about a tenth of the Chinese and Turkish flows and a fifth of the Indian one
+eu_volume_aluminium_exporter,1000,10000,50000,t per year,assumption,"Comext 2025: EU imports of 7610 90 90 from China were 151 kt",many small fabricators
 discount_rate,0.0,0.08,0.15,per year,assumption,none,used by the multi-year model (M1) to discount savings and costs to 2026
-verification_weeks_small,4,6,10,weeks from booking to verified report,assumption,none,includes waiting for a verifier; small installations
-verification_weeks_medium,6,8,14,weeks from booking to verified report,assumption,none,includes waiting for a verifier; medium installations
-verification_weeks_large,8,12,20,weeks from booking to verified report,assumption,"first verification needs a site visit (IR (EU) 2025/2546)",includes waiting for a verifier; large installations
+verification_weeks_small,3,6,12,weeks from booking to verified report,assumption,none,includes waiting for a verifier; small installations; sensitivity runs scale all mean times by 0.5 to 2
+verification_weeks_medium,4,8,16,weeks from booking to verified report,assumption,none,includes waiting for a verifier; medium installations; sensitivity runs scale all mean times by 0.5 to 2
+verification_weeks_large,6,12,24,weeks from booking to verified report,assumption,"first verification needs a site visit (IR (EU) 2025/2546)",includes waiting for a verifier; large installations; sensitivity runs scale all mean times by 0.5 to 2
 verification_window_weeks,13,39,39,weeks,legislated (central),"annual declaration for 2026 due 30 September 2027 (Regulation (EU) 2025/2083)","January to September 2027 for 2026 data; shorter windows model late starts or verifier backlogs"
 verifier_slots,1,2,4,parallel verifications available to the exporter's chain,assumption,"403 registered verifiers against 4,100 declarants (IELP, May 2026)",scarcity scenario parameter
