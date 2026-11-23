@@ -4,12 +4,12 @@ DRI,semis (crude steel),DRI-EAF,0.94,t precursor per t semis,JRC134682 (2023) p.
 liquid steel,semis (crude steel),all,1.06,t per t semis,JRC134682 (2023) p.14,output of continuous casting
 semis (crude steel),hot-rolled flat and long products,all,1.03,t per t hot-rolled product,JRC134682 (2023) p.14,
 hot-rolled flat product,cold-rolled flat product,all,1.04,t per t cold-rolled product,JRC134682 (2023) p.14,
-any,any other subprocess,all,1.00,t per t,JRC134682 (2023) p.14,"""data are not available and a factor of 1 is assumed""; sweep 1.00-1.10"
+any,any other subprocess,all,1.00,t per t,JRC134682 (2023) p.14,"""data are not available and a factor of 1 is assumed""; not varied in the sensitivity analysis"
 sinter / pellets,pig iron,BF-BOF,,,JRC134682 (2023) p.14,JRC expresses sinter and pellet emissions per tonne of pig iron (sinter is not traded); treat sinter as part of the pig-iron node or use a=1 on a per-t-pig-iron basis
-unwrought aluminium,aluminium products,all,1.00,t per t product,assumption,no ratio given in JRC; sweep 1.00-1.10
+unwrought aluminium,aluminium products,all,1.00,t per t product,assumption,no ratio given in JRC; T4 uses 0.70 + 0.30 = 1.00 t of metal per t of structures (set in src/cbam_verify/cases.py); not varied in the sensitivity analysis
 carbon anode,primary aluminium,primary,0.413-0.463,t anode per t primary aluminium,JRC134682 (2023) p.78 (EU+EFTA and global sources),drives direct process emissions; not a CBAM precursor
 electricity,primary aluminium,primary,14.21-14.79,MWh per t primary aluminium,JRC134682 (2023) p.78 (EU+EFTA and global sources),indirect emissions are not counted for aluminium in the definitive period
-metallic charge (scrap + DRI + pig iron),semis (crude steel),EAF / induction furnace,1.13,t charge per t semis,derived from JRC134682 p.14,"1.06 t liquid steel per t semis (JRC) x assumed 93% metallic yield; split by the GEM charge mix; sweep 1.06-1.20"
-pellets,DRI,coal-based DRI,1.40,t pellets per t DRI,assumption,"typical for rotary-kiln DRI; the Commission's Column A/B DRI benchmarks imply about 1.19; sweep 1.2-1.6"
+metallic charge (scrap + DRI + pig iron),semis (crude steel),EAF / induction furnace,1.13,t charge per t semis,derived from JRC134682 p.14,"1.06 t liquid steel per t semis (JRC) x assumed 93% metallic yield; split by the GEM charge mix; not varied in the sensitivity analysis"
+pellets,DRI,coal-based DRI,1.40,t pellets per t DRI,assumption,"typical for rotary-kiln DRI; the Commission's Column A/B DRI benchmarks imply about 1.19; not varied in the sensitivity analysis"
 sinter,pig iron,BF-BOF,1.09,t per t pig iron,JRC134682 (2023) p.13,BF burden; with 0.36 t pellets and 0.18 t lump ore per t pig iron; used for documentation only
 hot-rolled coil,coated coil (7210),cold rolling + galvanising,1.04,t per t coated coil,JRC134682 (2023) p.14,1.04 t hot-rolled per t cold-rolled; coating taken as 1.00

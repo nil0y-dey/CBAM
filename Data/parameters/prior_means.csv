@@ -9,5 +9,5 @@ coal_dri,India,Coal-based DRI (rotary kiln),7203,4.33,per t DRI; process only (e
 pellet_plant,India,Iron ore pelletising plant,26011200,0.34,per t pellets,Table 19 India 2601 12 00,JRC134682 Table 19,
 merchant_bf_pig_iron,India,Merchant blast furnace with sinter plant,7201,2.74,per t pig iron; whole installation,Table 19 India 7201,JRC134682 Table 19,
 primary_smelter,China,Primary aluminium smelter with anode plant,7601,2.59,per t unwrought aluminium; whole installation,Table 21 China 7601 (country mix; China's output is mostly primary),JRC134682 Table 21,direct emissions only (CBAM ignores electricity for aluminium)
-secondary_remelter,China,Secondary aluminium remelter,7601,0.30,per t unwrought aluminium; process only,illustrative assumption,none,no source in this repository; swept in sensitivity analysis
+secondary_remelter,China,Secondary aluminium remelter,7601,0.30,per t unwrought aluminium; process only,illustrative assumption,none,no source in this repository; not varied in the sensitivity analysis
 aluminium_fabrication,China,Extrusion and fabrication of structures,7610,0.25,per t product; process only (excludes purchased unwrought aluminium),Table 21 7610 90 90 minus 7601 = 2.84 - 2.59,JRC134682 Table 21,

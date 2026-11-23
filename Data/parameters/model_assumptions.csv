@@ -4,7 +4,7 @@ verification_cost_medium_installation,15000,,50000,EUR per installation per veri
 verification_cost_large_installation,50000,,150000,EUR per installation per verification,industry estimate,same as above,upper end open (150000 or more)
 verification_cost_official_estimate,,,,EUR per installation,not available,"Commission impact assessment SWD(2025) 988 (Council doc ST-16973-2025-ADD-4), Annex 8",no per-installation verification cost is given; only importer-level compliance costs
 first_verification_site_visit,1,,,indicator,legislated,IR (EU) 2025/2546 recital and Art. 2,physical site visit required in the first year verified; virtual or waived possible in a second consecutive year
-carbon_price_paid,0,0,,EUR per tCO2e,baseline assumption,IR (EU) 2026/2498 (OJ 16 Nov 2026; applies from 1 Jan 2026),deduction rules now exist; default carbon prices from 2027 not yet published; China is a possible sensitivity case
+carbon_price_paid,0,0,,EUR per tCO2e,baseline assumption,IR (EU) 2026/2498 (OJ 16 Nov 2026; applies from 1 Jan 2026),deduction rules now exist; default carbon prices from 2027 not yet published; not varied in the sensitivity analysis
 eua_dec26_quote,,90.5,,EUR per tCO2e,market quote (2 Nov 2026),"GMK Center, 'European carbon prices exceeded EUR90/t in November' (https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/)",anchor for the certificate price path
 eua_dec30_quote,,99.5,,EUR per tCO2e,market quote (autumn 2026),"CemNet EUA market comment (https://www.cemnet.com/News/story/182273/)",anchor for the long end of the price path
 cbam_benchmarks_2027,,,,,pending,IR (EU) 2025/2620 recital 10,updated CBAM benchmarks based on final ETS benchmarks (IR 2026/1412) apply from 1 Jan 2027; no draft as of 16 Nov 2026

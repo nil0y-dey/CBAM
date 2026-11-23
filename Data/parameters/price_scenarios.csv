@@ -18,7 +18,7 @@ futures,2032,99.50,assumption,held at the Dec-30 quote
 futures,2033,99.50,assumption,held at the Dec-30 quote
 futures,2034,99.50,assumption,held at the Dec-30 quote
 high,2026,77.65,policy_parameters.csv,mean of 2026 Q1-Q3 certificate prices
-high,2027,150.00,assumption,upper end of the price sweep in the proposal (EUR 50-150)
+high,2027,150.00,assumption,high-price scenario used in the sensitivity analysis
 high,2028,150.00,assumption,
 high,2029,150.00,assumption,
 high,2030,150.00,assumption,
