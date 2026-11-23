@@ -11,7 +11,7 @@ from cbam_verify.params import ROOT, YEARS, load_policy  # noqa: E402
 from cbam_verify.cases import build_all  # noqa: E402
 from cbam_verify.trees import check_tree  # noqa: E402
 
-REPORT_YEARS = [2026, 2027, 2028, 2030, 2034]
+REPORT_YEARS = list(YEARS)
 
 
 def main():
