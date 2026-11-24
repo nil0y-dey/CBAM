@@ -36,7 +36,7 @@ names its source.
 | `policy_parameters.csv` | CBAM factor 2026–2034, default mark-ups, quarterly certificate prices 2026, cross-sectoral correction factor (100% for 2026–2030, Decision 2026/1862) |
 | `mass_coefficients.csv` | Tonnes of precursor per tonne of product (JRC134682, p. 14 and p. 78) |
 | `route_reference_intensities.csv` | Crude steel direct and indirect intensity by route and country, read off JRC Figures 56–57 (±0.1) |
-| `prior_means.csv` | Expected direct emissions of each installation type in the case trees, with the JRC table or figure each comes from |
+| `prior_means.csv` | Expected emissions of each installation type in the case trees, as CBAM counts them: direct emissions, plus indirect emissions for the pellet plant, because pellets are not in Annex II of the CBAM Regulation. Each row names the JRC table or figure it comes from |
 | `price_scenarios.csv` | Certificate price paths 2026–2034: flat, futures-anchored, high |
 | `model_assumptions.csv` | Verification costs and times, success probability, prior spreads, pass-through share, export volumes, discount rate, verifier slots and window, carbon price paid (zero), EUA price anchors, status of the 2027 benchmark update |
 
