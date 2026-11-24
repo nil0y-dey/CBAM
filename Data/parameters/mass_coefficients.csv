@@ -11,5 +11,5 @@ carbon anode,primary aluminium,primary,0.413-0.463,t anode per t primary alumini
 electricity,primary aluminium,primary,14.21-14.79,MWh per t primary aluminium,JRC134682 (2023) p.78 (EU+EFTA and global sources),indirect emissions are not counted for aluminium in the definitive period
 metallic charge (scrap + DRI + pig iron),semis (crude steel),EAF / induction furnace,1.13,t charge per t semis,derived from JRC134682 p.14,"1.06 t liquid steel per t semis (JRC) x assumed 93% metallic yield; split by the GEM charge mix; not varied in the sensitivity analysis"
 pellets,DRI,coal-based DRI,1.40,t pellets per t DRI,assumption,"typical for rotary-kiln DRI; the Commission's Column A/B DRI benchmarks imply about 1.19; not varied in the sensitivity analysis"
-sinter,pig iron,BF-BOF,1.09,t per t pig iron,JRC134682 (2023) p.13,BF burden; with 0.36 t pellets and 0.18 t lump ore per t pig iron; used for documentation only
+sinter,pig iron,BF-BOF,1.09,t per t pig iron,JRC134682 (2023) p.13,BF burden; with 0.36 t pellets and 0.18 t lump ore per t pig iron; weights the sinter benchmark in the Column A benchmark of the integrated mills (T1 and T3) and the merchant blast furnace (T2)
 hot-rolled coil,coated coil (7210),cold rolling + galvanising,1.04,t per t coated coil,JRC134682 (2023) p.14,1.04 t hot-rolled per t cold-rolled; coating taken as 1.00
