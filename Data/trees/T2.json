@@ -104,7 +104,7 @@
       "rho": 0.9,
       "size": "medium",
       "own": false,
-      "prior_source": "JRC134682 Table 19: Table 19 India 7203 (4.81) minus 1.4 t pellets x 0.34 (Table 19 India 2601 12 00)",
+      "prior_source": "JRC134682 Table 19: Table 19 India 7203 (4.81) minus 1.4 t pellets x 0.34 (direct emissions of pellets; Table 19 India 2601 12 00)",
       "internal": [],
       "note": "DRI-type share of charge 0.839 (GEM, induction furnaces, India)",
       "children": [
@@ -145,9 +145,9 @@
         "2033": 0.086,
         "2034": 0.086
       },
-      "theta_mean": 0.34,
+      "theta_mean": 0.39,
       "theta_cv": 0.25,
-      "ln_mu": -1.1091219722801473,
+      "ln_mu": -0.9719208507666623,
       "ln_sigma": 0.24622067706923975,
       "cost": 30000.0,
       "cost_low": 15000.0,
@@ -155,7 +155,7 @@
       "rho": 0.9,
       "size": "medium",
       "own": false,
-      "prior_source": "JRC134682 Table 19: Table 19 India 2601 12 00",
+      "prior_source": "JRC134682 Table 19: Table 19 India 2601 12 00: 0.34 direct + 0.05 indirect",
       "internal": [],
       "note": "",
       "children": []
