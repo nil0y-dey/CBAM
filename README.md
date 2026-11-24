@@ -1,6 +1,6 @@
 # Verify or Default: Optimal Emissions Verification in Multi-Tier Supply Chains under the EU CBAM
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24463357.svg)](https://doi.org/10.5281/zenodo.24463357)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24486312.svg)](https://doi.org/10.5281/zenodo.24486312)
 
 Data and code for the paper *"Verify or Default: Optimal Emissions Verification in
 Multi-Tier Supply Chains under the EU Carbon Border Adjustment Mechanism"* by
@@ -155,7 +155,7 @@ Lei et al. (2023, *Nature*) and Eurostat Comext trade data.
 Please cite the paper and this archive:
 
 > Dey, N. (2026). *CBAM: data and code for "Verify or Default"* [Software].
-> Zenodo. https://doi.org/10.5281/zenodo.24463357
+> Zenodo. https://doi.org/10.5281/zenodo.24486312
 
 Machine-readable metadata are in `CITATION.cff`. Please also cite the original data
 sources listed in `Data/SOURCES.md`.
