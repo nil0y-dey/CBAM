@@ -85,14 +85,14 @@ times reported in the scalability tests, which depend on the machine.
 
 | In the paper | Produced by | Output files |
 |---|---|---|
-| Calibrated chains (Figure 2, Table 3; Tables S1–S2) | `scripts/build_trees.py` | `Data/trees/`, `Data/parameters/` |
-| One compliance year (Table 4, Figures 3–4) | `scripts/run_m0.py`, `paper/code/make_extra_results.py` | `Data/results/m0_*.csv`, `paper/results_extra/protocol_m0.csv`, `withhold_distance.csv` |
-| Commitment versus deferred declaration (Table 5) | `paper/code/make_extra_results.py` | `paper/results_extra/protocol_m0.csv` |
+| Calibrated chains (Figure 2, Table 2; Tables S1–S2) | `scripts/build_trees.py` | `Data/trees/`, `Data/parameters/` |
+| One compliance year (Table 3, Figures 3–4) | `scripts/run_m0.py`, `paper/code/make_extra_results.py` | `Data/results/m0_*.csv`, `paper/results_extra/protocol_m0.csv`, `withhold_distance.csv` |
+| Commitment versus deferred declaration (Table 4) | `paper/code/make_extra_results.py` | `paper/results_extra/protocol_m0.csv` |
 | Regime map (Figure 5) | `paper/code/regime_map.py` | `paper/results_extra/regime_map.csv`, `regime_points.csv` |
-| Start years (Table 6, Figure 6; Tables S4, S6) | `scripts/run_m1.py`, `paper/code/make_extra_results.py` | `Data/results/m1_*.csv`, `paper/results_extra/protocol_m1.csv`, `m1_start_curves.csv`, `t2_yearly_*.csv` |
-| Verifier slots and the deadline (Table 7, Figure 7; Tables S5, S7) | `scripts/run_m2.py`, `paper/code/m2_deferred_and_breakeven.py` | `Data/results/m2_*.csv`, `paper/results_extra/m2_deferred.csv` |
+| Start years (Table 5, Figure 6; Tables S4, S6) | `scripts/run_m1.py`, `paper/code/make_extra_results.py` | `Data/results/m1_*.csv`, `paper/results_extra/protocol_m1.csv`, `m1_start_curves.csv`, `t2_yearly_*.csv` |
+| Verifier slots and the deadline (Table 6, Figure 7; Tables S5, S7) | `scripts/run_m2.py`, `paper/code/m2_deferred_and_breakeven.py` | `Data/results/m2_*.csv`, `paper/results_extra/m2_deferred.csv` |
 | Break-even costs and volumes (Table S3) | `paper/code/m2_deferred_and_breakeven.py` | `paper/results_extra/breakeven.csv` |
-| Tests on random chains (Section 6.7; Table S8) | `paper/code/scalability.py` | `paper/results_extra/scal_*.csv` |
+| Tests on random chains (Section 6.7; Tables S8–S9) | `paper/code/scalability.py` | `paper/results_extra/scal_*.csv` |
 
 `paper/code/make_figures_tables.py` turns these files into the paper's tables and
 figures. Section, table and figure numbers refer to the paper and its online supplement.
